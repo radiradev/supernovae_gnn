@@ -1,0 +1,3513 @@
+2022-11-07 17:56:05.474 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6208
+2022-11-07 17:56:05.475 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.5521
+2022-11-07 17:56:05.475 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.62 for epoch: 1
+
+2022-11-07 17:56:05.520 | INFO     | __main__:<module>:85 - Epoch 001, Loss: 0.6826, Test: 0.6208
+2022-11-07 17:57:08.343 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6651
+2022-11-07 17:57:08.343 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.6501
+2022-11-07 17:57:08.343 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.67 for epoch: 2
+
+2022-11-07 17:57:08.373 | INFO     | __main__:<module>:85 - Epoch 002, Loss: 0.6268, Test: 0.6651
+2022-11-07 17:58:11.070 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6722
+2022-11-07 17:58:11.071 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.6743
+2022-11-07 17:58:11.071 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.67 for epoch: 3
+
+2022-11-07 17:58:11.100 | INFO     | __main__:<module>:85 - Epoch 003, Loss: 0.5993, Test: 0.6722
+2022-11-07 17:59:13.802 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6857
+2022-11-07 17:59:13.803 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.6897
+2022-11-07 17:59:13.803 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.69 for epoch: 4
+
+2022-11-07 17:59:13.833 | INFO     | __main__:<module>:85 - Epoch 004, Loss: 0.5808, Test: 0.6857
+2022-11-07 18:00:16.498 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6862
+2022-11-07 18:00:16.498 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.6995
+2022-11-07 18:00:16.499 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.69 for epoch: 5
+
+2022-11-07 18:00:16.528 | INFO     | __main__:<module>:85 - Epoch 005, Loss: 0.5709, Test: 0.6862
+2022-11-07 18:01:19.208 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6930
+2022-11-07 18:01:19.208 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7096
+2022-11-07 18:01:19.208 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.69 for epoch: 6
+
+2022-11-07 18:01:19.237 | INFO     | __main__:<module>:85 - Epoch 006, Loss: 0.5595, Test: 0.6930
+2022-11-07 18:02:21.882 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6986
+2022-11-07 18:02:21.883 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7091
+2022-11-07 18:02:21.883 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.70 for epoch: 7
+
+2022-11-07 18:02:21.912 | INFO     | __main__:<module>:85 - Epoch 007, Loss: 0.5532, Test: 0.6986
+2022-11-07 18:03:24.565 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6899
+2022-11-07 18:03:24.565 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7191
+2022-11-07 18:03:24.565 | INFO     | __main__:<module>:85 - Epoch 008, Loss: 0.5478, Test: 0.6899
+2022-11-07 18:04:27.222 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.7041
+2022-11-07 18:04:27.223 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7210
+2022-11-07 18:04:27.223 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.70 for epoch: 9
+
+2022-11-07 18:04:27.252 | INFO     | __main__:<module>:85 - Epoch 009, Loss: 0.5376, Test: 0.7041
+2022-11-07 18:05:29.904 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6954
+2022-11-07 18:05:29.905 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7239
+2022-11-07 18:05:29.905 | INFO     | __main__:<module>:85 - Epoch 010, Loss: 0.5342, Test: 0.6954
+2022-11-07 18:06:32.562 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.7031
+2022-11-07 18:06:32.562 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7266
+2022-11-07 18:06:32.562 | INFO     | __main__:<module>:85 - Epoch 011, Loss: 0.5302, Test: 0.7031
+2022-11-07 18:07:35.196 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6970
+2022-11-07 18:07:35.196 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7301
+2022-11-07 18:07:35.197 | INFO     | __main__:<module>:85 - Epoch 012, Loss: 0.5228, Test: 0.6970
+2022-11-07 18:08:37.857 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6875
+2022-11-07 18:08:37.857 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7415
+2022-11-07 18:08:37.857 | INFO     | __main__:<module>:85 - Epoch 013, Loss: 0.5132, Test: 0.6875
+2022-11-07 18:09:40.484 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6980
+2022-11-07 18:09:40.485 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7411
+2022-11-07 18:09:40.485 | INFO     | __main__:<module>:85 - Epoch 014, Loss: 0.5079, Test: 0.6980
+2022-11-07 18:10:43.119 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6899
+2022-11-07 18:10:43.119 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7470
+2022-11-07 18:10:43.119 | INFO     | __main__:<module>:85 - Epoch 015, Loss: 0.5004, Test: 0.6899
+2022-11-07 18:11:45.753 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6909
+2022-11-07 18:11:45.753 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7487
+2022-11-07 18:11:45.754 | INFO     | __main__:<module>:85 - Epoch 016, Loss: 0.4961, Test: 0.6909
+2022-11-07 18:12:48.389 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6983
+2022-11-07 18:12:48.390 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7540
+2022-11-07 18:12:48.390 | INFO     | __main__:<module>:85 - Epoch 017, Loss: 0.4899, Test: 0.6983
+2022-11-07 18:13:51.026 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6907
+2022-11-07 18:13:51.026 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7673
+2022-11-07 18:13:51.027 | INFO     | __main__:<module>:85 - Epoch 018, Loss: 0.4755, Test: 0.6907
+2022-11-07 18:14:53.654 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6967
+2022-11-07 18:14:53.654 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7632
+2022-11-07 18:14:53.654 | INFO     | __main__:<module>:85 - Epoch 019, Loss: 0.4750, Test: 0.6967
+2022-11-07 18:15:56.292 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6928
+2022-11-07 18:15:56.292 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7723
+2022-11-07 18:15:56.292 | INFO     | __main__:<module>:85 - Epoch 020, Loss: 0.4599, Test: 0.6928
+2022-11-07 18:16:58.951 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.7009
+2022-11-07 18:16:58.951 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7826
+2022-11-07 18:16:58.952 | INFO     | __main__:<module>:85 - Epoch 021, Loss: 0.4505, Test: 0.7009
+2022-11-07 18:18:01.643 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6901
+2022-11-07 18:18:01.643 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7903
+2022-11-07 18:18:01.643 | INFO     | __main__:<module>:85 - Epoch 022, Loss: 0.4330, Test: 0.6901
+2022-11-07 18:19:04.322 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6938
+2022-11-07 18:19:04.323 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7965
+2022-11-07 18:19:04.323 | INFO     | __main__:<module>:85 - Epoch 023, Loss: 0.4211, Test: 0.6938
+2022-11-07 18:20:06.969 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6595
+2022-11-07 18:20:06.969 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.8074
+2022-11-07 18:20:06.970 | INFO     | __main__:<module>:85 - Epoch 024, Loss: 0.4052, Test: 0.6595
+2022-11-07 18:21:09.593 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6793
+2022-11-07 18:21:09.593 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.8177
+2022-11-07 18:21:09.593 | INFO     | __main__:<module>:85 - Epoch 025, Loss: 0.3873, Test: 0.6793
+2022-11-07 18:22:12.200 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6514
+2022-11-07 18:22:12.201 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.8375
+2022-11-07 18:22:12.201 | INFO     | __main__:<module>:85 - Epoch 026, Loss: 0.3559, Test: 0.6514
+2022-11-07 18:23:14.829 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6764
+2022-11-07 18:23:14.830 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.8426
+2022-11-07 18:23:14.830 | INFO     | __main__:<module>:85 - Epoch 027, Loss: 0.3443, Test: 0.6764
+2022-11-07 18:24:17.443 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6680
+2022-11-07 18:24:17.444 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.8594
+2022-11-07 18:24:17.444 | INFO     | __main__:<module>:85 - Epoch 028, Loss: 0.3147, Test: 0.6680
+2022-11-07 18:25:20.085 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6680
+2022-11-07 18:25:20.085 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.8652
+2022-11-07 18:25:20.085 | INFO     | __main__:<module>:85 - Epoch 029, Loss: 0.3032, Test: 0.6680
+2022-11-07 18:26:22.718 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6458
+2022-11-07 18:26:22.718 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.8855
+2022-11-07 18:26:22.719 | INFO     | __main__:<module>:85 - Epoch 030, Loss: 0.2678, Test: 0.6458
+2022-11-07 18:27:25.344 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6682
+2022-11-07 18:27:25.345 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.8882
+2022-11-07 18:27:25.345 | INFO     | __main__:<module>:85 - Epoch 031, Loss: 0.2602, Test: 0.6682
+2022-11-07 18:28:27.964 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6545
+2022-11-07 18:28:27.964 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9028
+2022-11-07 18:28:27.964 | INFO     | __main__:<module>:85 - Epoch 032, Loss: 0.2354, Test: 0.6545
+2022-11-07 18:29:30.609 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6181
+2022-11-07 18:29:30.610 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9114
+2022-11-07 18:29:30.610 | INFO     | __main__:<module>:85 - Epoch 033, Loss: 0.2149, Test: 0.6181
+2022-11-07 18:30:33.235 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6585
+2022-11-07 18:30:33.235 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9164
+2022-11-07 18:30:33.235 | INFO     | __main__:<module>:85 - Epoch 034, Loss: 0.2056, Test: 0.6585
+2022-11-07 18:31:35.848 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6316
+2022-11-07 18:31:35.849 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9279
+2022-11-07 18:31:35.849 | INFO     | __main__:<module>:85 - Epoch 035, Loss: 0.1797, Test: 0.6316
+2022-11-07 18:32:38.492 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6685
+2022-11-07 18:32:38.493 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9332
+2022-11-07 18:32:38.493 | INFO     | __main__:<module>:85 - Epoch 036, Loss: 0.1639, Test: 0.6685
+2022-11-07 18:33:41.115 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6348
+2022-11-07 18:33:41.115 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9324
+2022-11-07 18:33:41.115 | INFO     | __main__:<module>:85 - Epoch 037, Loss: 0.1676, Test: 0.6348
+2022-11-07 18:34:43.724 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6704
+2022-11-07 18:34:43.724 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9345
+2022-11-07 18:34:43.724 | INFO     | __main__:<module>:85 - Epoch 038, Loss: 0.1645, Test: 0.6704
+2022-11-07 18:35:46.310 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6630
+2022-11-07 18:35:46.310 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9367
+2022-11-07 18:35:46.311 | INFO     | __main__:<module>:85 - Epoch 039, Loss: 0.1592, Test: 0.6630
+2022-11-07 18:36:48.891 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6126
+2022-11-07 18:36:48.891 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9379
+2022-11-07 18:36:48.892 | INFO     | __main__:<module>:85 - Epoch 040, Loss: 0.1598, Test: 0.6126
+2022-11-07 18:37:51.500 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6727
+2022-11-07 18:37:51.500 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9393
+2022-11-07 18:37:51.501 | INFO     | __main__:<module>:85 - Epoch 041, Loss: 0.1548, Test: 0.6727
+2022-11-07 18:38:54.089 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6574
+2022-11-07 18:38:54.089 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9427
+2022-11-07 18:38:54.089 | INFO     | __main__:<module>:85 - Epoch 042, Loss: 0.1479, Test: 0.6574
+2022-11-07 18:39:56.695 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6514
+2022-11-07 18:39:56.695 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9415
+2022-11-07 18:39:56.695 | INFO     | __main__:<module>:85 - Epoch 043, Loss: 0.1467, Test: 0.6514
+2022-11-07 18:40:59.303 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6762
+2022-11-07 18:40:59.304 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9473
+2022-11-07 18:40:59.304 | INFO     | __main__:<module>:85 - Epoch 044, Loss: 0.1345, Test: 0.6762
+2022-11-07 18:42:01.920 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6598
+2022-11-07 18:42:01.921 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9505
+2022-11-07 18:42:01.921 | INFO     | __main__:<module>:85 - Epoch 045, Loss: 0.1255, Test: 0.6598
+2022-11-07 18:43:04.520 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6693
+2022-11-07 18:43:04.521 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9550
+2022-11-07 18:43:04.521 | INFO     | __main__:<module>:85 - Epoch 046, Loss: 0.1145, Test: 0.6693
+2022-11-07 18:44:07.126 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6635
+2022-11-07 18:44:07.126 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9540
+2022-11-07 18:44:07.127 | INFO     | __main__:<module>:85 - Epoch 047, Loss: 0.1215, Test: 0.6635
+2022-11-07 18:45:09.689 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6717
+2022-11-07 18:45:09.689 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9556
+2022-11-07 18:45:09.690 | INFO     | __main__:<module>:85 - Epoch 048, Loss: 0.1096, Test: 0.6717
+2022-11-07 18:46:12.306 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6590
+2022-11-07 18:46:12.307 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9553
+2022-11-07 18:46:12.307 | INFO     | __main__:<module>:85 - Epoch 049, Loss: 0.1157, Test: 0.6590
+2022-11-07 18:47:14.890 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6195
+2022-11-07 18:47:14.890 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9535
+2022-11-07 18:47:14.890 | INFO     | __main__:<module>:85 - Epoch 050, Loss: 0.1262, Test: 0.6195
+2022-11-07 18:48:17.451 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6569
+2022-11-07 18:48:17.451 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9559
+2022-11-07 18:48:17.451 | INFO     | __main__:<module>:85 - Epoch 051, Loss: 0.1127, Test: 0.6569
+2022-11-07 18:49:20.034 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6619
+2022-11-07 18:49:20.034 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9548
+2022-11-07 18:49:20.034 | INFO     | __main__:<module>:85 - Epoch 052, Loss: 0.1237, Test: 0.6619
+2022-11-07 18:50:22.618 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6696
+2022-11-07 18:50:22.619 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9626
+2022-11-07 18:50:22.619 | INFO     | __main__:<module>:85 - Epoch 053, Loss: 0.1014, Test: 0.6696
+2022-11-07 18:51:25.176 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6490
+2022-11-07 18:51:25.176 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9525
+2022-11-07 18:51:25.176 | INFO     | __main__:<module>:85 - Epoch 054, Loss: 0.1230, Test: 0.6490
+2022-11-07 18:52:27.785 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6696
+2022-11-07 18:52:27.785 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9598
+2022-11-07 18:52:27.785 | INFO     | __main__:<module>:85 - Epoch 055, Loss: 0.1065, Test: 0.6696
+2022-11-07 18:53:30.346 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6403
+2022-11-07 18:53:30.347 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9601
+2022-11-07 18:53:30.347 | INFO     | __main__:<module>:85 - Epoch 056, Loss: 0.1039, Test: 0.6403
+2022-11-07 18:54:32.950 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6382
+2022-11-07 18:54:32.951 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9641
+2022-11-07 18:54:32.951 | INFO     | __main__:<module>:85 - Epoch 057, Loss: 0.0971, Test: 0.6382
+2022-11-07 18:55:35.517 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6595
+2022-11-07 18:55:35.518 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9659
+2022-11-07 18:55:35.518 | INFO     | __main__:<module>:85 - Epoch 058, Loss: 0.0916, Test: 0.6595
+2022-11-07 18:56:38.083 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6566
+2022-11-07 18:56:38.084 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9574
+2022-11-07 18:56:38.084 | INFO     | __main__:<module>:85 - Epoch 059, Loss: 0.1114, Test: 0.6566
+2022-11-07 18:57:40.670 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6569
+2022-11-07 18:57:40.670 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9598
+2022-11-07 18:57:40.670 | INFO     | __main__:<module>:85 - Epoch 060, Loss: 0.1065, Test: 0.6569
+2022-11-07 18:58:43.202 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6585
+2022-11-07 18:58:43.202 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9608
+2022-11-07 18:58:43.202 | INFO     | __main__:<module>:85 - Epoch 061, Loss: 0.0993, Test: 0.6585
+2022-11-07 18:59:45.793 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6603
+2022-11-07 18:59:45.793 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9697
+2022-11-07 18:59:45.793 | INFO     | __main__:<module>:85 - Epoch 062, Loss: 0.0823, Test: 0.6603
+2022-11-07 19:00:48.376 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6561
+2022-11-07 19:00:48.377 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9700
+2022-11-07 19:00:48.377 | INFO     | __main__:<module>:85 - Epoch 063, Loss: 0.0838, Test: 0.6561
+2022-11-07 19:01:50.938 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6614
+2022-11-07 19:01:50.939 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9655
+2022-11-07 19:01:50.939 | INFO     | __main__:<module>:85 - Epoch 064, Loss: 0.0934, Test: 0.6614
+2022-11-07 19:02:53.492 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6384
+2022-11-07 19:02:53.493 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9600
+2022-11-07 19:02:53.493 | INFO     | __main__:<module>:85 - Epoch 065, Loss: 0.1030, Test: 0.6384
+2022-11-07 19:03:56.029 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6392
+2022-11-07 19:03:56.029 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9660
+2022-11-07 19:03:56.029 | INFO     | __main__:<module>:85 - Epoch 066, Loss: 0.0901, Test: 0.6392
+2022-11-07 19:04:58.581 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6295
+2022-11-07 19:04:58.581 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9686
+2022-11-07 19:04:58.581 | INFO     | __main__:<module>:85 - Epoch 067, Loss: 0.0850, Test: 0.6295
+2022-11-07 19:06:01.137 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6574
+2022-11-07 19:06:01.138 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9656
+2022-11-07 19:06:01.138 | INFO     | __main__:<module>:85 - Epoch 068, Loss: 0.0880, Test: 0.6574
+2022-11-07 19:07:03.737 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6493
+2022-11-07 19:07:03.737 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9631
+2022-11-07 19:07:03.738 | INFO     | __main__:<module>:85 - Epoch 069, Loss: 0.0943, Test: 0.6493
+2022-11-07 19:08:06.326 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6617
+2022-11-07 19:08:06.326 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9660
+2022-11-07 19:08:06.327 | INFO     | __main__:<module>:85 - Epoch 070, Loss: 0.0932, Test: 0.6617
+2022-11-07 19:09:08.906 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6580
+2022-11-07 19:09:08.906 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9715
+2022-11-07 19:09:08.906 | INFO     | __main__:<module>:85 - Epoch 071, Loss: 0.0816, Test: 0.6580
+2022-11-07 19:10:11.482 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6564
+2022-11-07 19:10:11.483 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9664
+2022-11-07 19:10:11.483 | INFO     | __main__:<module>:85 - Epoch 072, Loss: 0.0917, Test: 0.6564
+2022-11-07 19:11:14.009 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6466
+2022-11-07 19:11:14.010 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9684
+2022-11-07 19:11:14.010 | INFO     | __main__:<module>:85 - Epoch 073, Loss: 0.0857, Test: 0.6466
+2022-11-07 19:12:16.547 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6187
+2022-11-07 19:12:16.548 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9641
+2022-11-07 19:12:16.548 | INFO     | __main__:<module>:85 - Epoch 074, Loss: 0.0956, Test: 0.6187
+2022-11-07 19:13:19.094 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6582
+2022-11-07 19:13:19.094 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9674
+2022-11-07 19:13:19.094 | INFO     | __main__:<module>:85 - Epoch 075, Loss: 0.0858, Test: 0.6582
+2022-11-07 19:14:21.637 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6234
+2022-11-07 19:14:21.637 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9651
+2022-11-07 19:14:21.637 | INFO     | __main__:<module>:85 - Epoch 076, Loss: 0.0948, Test: 0.6234
+2022-11-07 19:15:24.121 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6590
+2022-11-07 19:15:24.121 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9768
+2022-11-07 19:15:24.121 | INFO     | __main__:<module>:85 - Epoch 077, Loss: 0.0656, Test: 0.6590
+2022-11-07 19:16:26.641 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6477
+2022-11-07 19:16:26.642 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9673
+2022-11-07 19:16:26.642 | INFO     | __main__:<module>:85 - Epoch 078, Loss: 0.0855, Test: 0.6477
+2022-11-07 19:17:29.147 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6311
+2022-11-07 19:17:29.147 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9701
+2022-11-07 19:17:29.147 | INFO     | __main__:<module>:85 - Epoch 079, Loss: 0.0795, Test: 0.6311
+2022-11-07 19:18:31.663 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6593
+2022-11-07 19:18:31.663 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9752
+2022-11-07 19:18:31.664 | INFO     | __main__:<module>:85 - Epoch 080, Loss: 0.0672, Test: 0.6593
+2022-11-07 19:19:34.200 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6551
+2022-11-07 19:19:34.200 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9738
+2022-11-07 19:19:34.200 | INFO     | __main__:<module>:85 - Epoch 081, Loss: 0.0680, Test: 0.6551
+2022-11-07 19:20:36.713 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6751
+2022-11-07 19:20:36.713 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9649
+2022-11-07 19:20:36.713 | INFO     | __main__:<module>:85 - Epoch 082, Loss: 0.0933, Test: 0.6751
+2022-11-07 19:21:39.200 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6527
+2022-11-07 19:21:39.201 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9773
+2022-11-07 19:21:39.201 | INFO     | __main__:<module>:85 - Epoch 083, Loss: 0.0608, Test: 0.6527
+2022-11-07 19:22:41.711 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6677
+2022-11-07 19:22:41.712 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9695
+2022-11-07 19:22:41.712 | INFO     | __main__:<module>:85 - Epoch 084, Loss: 0.0788, Test: 0.6677
+2022-11-07 19:23:44.235 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6635
+2022-11-07 19:23:44.235 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9744
+2022-11-07 19:23:44.236 | INFO     | __main__:<module>:85 - Epoch 085, Loss: 0.0696, Test: 0.6635
+2022-11-07 19:24:46.748 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6348
+2022-11-07 19:24:46.749 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9701
+2022-11-07 19:24:46.749 | INFO     | __main__:<module>:85 - Epoch 086, Loss: 0.0796, Test: 0.6348
+2022-11-07 19:25:49.259 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6458
+2022-11-07 19:25:49.259 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9774
+2022-11-07 19:25:49.259 | INFO     | __main__:<module>:85 - Epoch 087, Loss: 0.0640, Test: 0.6458
+2022-11-07 19:26:51.798 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6611
+2022-11-07 19:26:51.799 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9724
+2022-11-07 19:26:51.799 | INFO     | __main__:<module>:85 - Epoch 088, Loss: 0.0747, Test: 0.6611
+2022-11-07 19:27:54.316 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6461
+2022-11-07 19:27:54.316 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9697
+2022-11-07 19:27:54.316 | INFO     | __main__:<module>:85 - Epoch 089, Loss: 0.0832, Test: 0.6461
+2022-11-07 19:28:56.858 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6622
+2022-11-07 19:28:56.858 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9798
+2022-11-07 19:28:56.858 | INFO     | __main__:<module>:85 - Epoch 090, Loss: 0.0562, Test: 0.6622
+2022-11-07 19:29:59.355 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6355
+2022-11-07 19:29:59.355 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9767
+2022-11-07 19:29:59.356 | INFO     | __main__:<module>:85 - Epoch 091, Loss: 0.0645, Test: 0.6355
+2022-11-07 19:31:01.871 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6551
+2022-11-07 19:31:01.871 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9729
+2022-11-07 19:31:01.871 | INFO     | __main__:<module>:85 - Epoch 092, Loss: 0.0752, Test: 0.6551
+2022-11-07 19:32:04.396 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6601
+2022-11-07 19:32:04.397 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9740
+2022-11-07 19:32:04.397 | INFO     | __main__:<module>:85 - Epoch 093, Loss: 0.0722, Test: 0.6601
+2022-11-07 19:33:06.935 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6598
+2022-11-07 19:33:06.935 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9713
+2022-11-07 19:33:06.935 | INFO     | __main__:<module>:85 - Epoch 094, Loss: 0.0778, Test: 0.6598
+2022-11-07 19:34:09.449 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6543
+2022-11-07 19:34:09.449 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9782
+2022-11-07 19:34:09.449 | INFO     | __main__:<module>:85 - Epoch 095, Loss: 0.0606, Test: 0.6543
+2022-11-07 19:35:11.938 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6540
+2022-11-07 19:35:11.939 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9693
+2022-11-07 19:35:11.939 | INFO     | __main__:<module>:85 - Epoch 096, Loss: 0.0830, Test: 0.6540
+2022-11-07 19:36:14.471 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6754
+2022-11-07 19:36:14.471 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9743
+2022-11-07 19:36:14.471 | INFO     | __main__:<module>:85 - Epoch 097, Loss: 0.0720, Test: 0.6754
+2022-11-07 19:37:16.988 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6232
+2022-11-07 19:37:16.988 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9785
+2022-11-07 19:37:16.988 | INFO     | __main__:<module>:85 - Epoch 098, Loss: 0.0604, Test: 0.6232
+2022-11-07 19:38:19.512 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6503
+2022-11-07 19:38:19.512 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9742
+2022-11-07 19:38:19.513 | INFO     | __main__:<module>:85 - Epoch 099, Loss: 0.0714, Test: 0.6503
+2022-11-07 19:39:22.062 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6640
+2022-11-07 19:39:22.062 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9782
+2022-11-07 19:39:22.063 | INFO     | __main__:<module>:85 - Epoch 100, Loss: 0.0595, Test: 0.6640
+2022-11-07 19:40:24.579 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6603
+2022-11-07 19:40:24.579 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9765
+2022-11-07 19:40:24.579 | INFO     | __main__:<module>:85 - Epoch 101, Loss: 0.0608, Test: 0.6603
+2022-11-07 19:41:27.022 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6614
+2022-11-07 19:41:27.023 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9711
+2022-11-07 19:41:27.023 | INFO     | __main__:<module>:85 - Epoch 102, Loss: 0.0763, Test: 0.6614
+2022-11-07 19:42:29.503 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6548
+2022-11-07 19:42:29.504 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9765
+2022-11-07 19:42:29.504 | INFO     | __main__:<module>:85 - Epoch 103, Loss: 0.0660, Test: 0.6548
+2022-11-07 19:43:31.987 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6714
+2022-11-07 19:43:31.987 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9746
+2022-11-07 19:43:31.988 | INFO     | __main__:<module>:85 - Epoch 104, Loss: 0.0703, Test: 0.6714
+2022-11-07 19:44:34.489 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6472
+2022-11-07 19:44:34.490 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9765
+2022-11-07 19:44:34.490 | INFO     | __main__:<module>:85 - Epoch 105, Loss: 0.0627, Test: 0.6472
+2022-11-07 19:45:36.958 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6627
+2022-11-07 19:45:36.958 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9802
+2022-11-07 19:45:36.958 | INFO     | __main__:<module>:85 - Epoch 106, Loss: 0.0581, Test: 0.6627
+2022-11-07 19:46:39.483 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6514
+2022-11-07 19:46:39.483 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9761
+2022-11-07 19:46:39.484 | INFO     | __main__:<module>:85 - Epoch 107, Loss: 0.0666, Test: 0.6514
+2022-11-07 19:47:41.955 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6511
+2022-11-07 19:47:41.956 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9772
+2022-11-07 19:47:41.956 | INFO     | __main__:<module>:85 - Epoch 108, Loss: 0.0618, Test: 0.6511
+2022-11-07 19:48:44.406 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6548
+2022-11-07 19:48:44.406 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9750
+2022-11-07 19:48:44.407 | INFO     | __main__:<module>:85 - Epoch 109, Loss: 0.0662, Test: 0.6548
+2022-11-07 19:49:46.849 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6300
+2022-11-07 19:49:46.850 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9780
+2022-11-07 19:49:46.850 | INFO     | __main__:<module>:85 - Epoch 110, Loss: 0.0619, Test: 0.6300
+2022-11-07 19:50:49.333 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6601
+2022-11-07 19:50:49.334 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9775
+2022-11-07 19:50:49.334 | INFO     | __main__:<module>:85 - Epoch 111, Loss: 0.0580, Test: 0.6601
+2022-11-07 19:51:51.853 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6585
+2022-11-07 19:51:51.854 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9811
+2022-11-07 19:51:51.854 | INFO     | __main__:<module>:85 - Epoch 112, Loss: 0.0558, Test: 0.6585
+2022-11-07 19:52:54.316 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6585
+2022-11-07 19:52:54.317 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9744
+2022-11-07 19:52:54.317 | INFO     | __main__:<module>:85 - Epoch 113, Loss: 0.0707, Test: 0.6585
+2022-11-07 19:53:56.810 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6611
+2022-11-07 19:53:56.810 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9790
+2022-11-07 19:53:56.811 | INFO     | __main__:<module>:85 - Epoch 114, Loss: 0.0540, Test: 0.6611
+2022-11-07 19:54:59.275 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6603
+2022-11-07 19:54:59.275 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9781
+2022-11-07 19:54:59.275 | INFO     | __main__:<module>:85 - Epoch 115, Loss: 0.0622, Test: 0.6603
+2022-11-07 19:56:07.015 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6519
+2022-11-07 19:56:07.016 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9825
+2022-11-07 19:56:07.016 | INFO     | __main__:<module>:85 - Epoch 116, Loss: 0.0469, Test: 0.6519
+2022-11-07 19:57:09.480 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6601
+2022-11-07 19:57:09.481 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9788
+2022-11-07 19:57:09.481 | INFO     | __main__:<module>:85 - Epoch 117, Loss: 0.0599, Test: 0.6601
+2022-11-07 19:58:12.008 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6553
+2022-11-07 19:58:12.008 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9808
+2022-11-07 19:58:12.009 | INFO     | __main__:<module>:85 - Epoch 118, Loss: 0.0552, Test: 0.6553
+2022-11-07 19:59:14.569 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6685
+2022-11-07 19:59:14.569 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9773
+2022-11-07 19:59:14.570 | INFO     | __main__:<module>:85 - Epoch 119, Loss: 0.0615, Test: 0.6685
+2022-11-07 20:00:17.167 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6519
+2022-11-07 20:00:17.168 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9784
+2022-11-07 20:00:17.168 | INFO     | __main__:<module>:85 - Epoch 120, Loss: 0.0574, Test: 0.6519
+2022-11-07 20:01:19.762 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6342
+2022-11-07 20:01:19.762 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9784
+2022-11-07 20:01:19.763 | INFO     | __main__:<module>:85 - Epoch 121, Loss: 0.0602, Test: 0.6342
+2022-11-07 20:02:22.373 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6619
+2022-11-07 20:02:22.374 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9762
+2022-11-07 20:02:22.374 | INFO     | __main__:<module>:85 - Epoch 122, Loss: 0.0645, Test: 0.6619
+2022-11-07 20:03:24.975 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6387
+2022-11-07 20:03:24.976 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9746
+2022-11-07 20:03:24.976 | INFO     | __main__:<module>:85 - Epoch 123, Loss: 0.0667, Test: 0.6387
+2022-11-07 20:04:27.590 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6472
+2022-11-07 20:04:27.590 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9777
+2022-11-07 20:04:27.590 | INFO     | __main__:<module>:85 - Epoch 124, Loss: 0.0612, Test: 0.6472
+2022-11-07 20:05:30.173 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6479
+2022-11-07 20:05:30.174 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9824
+2022-11-07 20:05:30.174 | INFO     | __main__:<module>:85 - Epoch 125, Loss: 0.0496, Test: 0.6479
+2022-11-07 20:06:32.730 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6424
+2022-11-07 20:06:32.730 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9773
+2022-11-07 20:06:32.730 | INFO     | __main__:<module>:85 - Epoch 126, Loss: 0.0601, Test: 0.6424
+2022-11-07 20:07:35.271 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6706
+2022-11-07 20:07:35.271 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9807
+2022-11-07 20:07:35.272 | INFO     | __main__:<module>:85 - Epoch 127, Loss: 0.0530, Test: 0.6706
+2022-11-07 20:08:37.810 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6653
+2022-11-07 20:08:37.811 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9783
+2022-11-07 20:08:37.811 | INFO     | __main__:<module>:85 - Epoch 128, Loss: 0.0608, Test: 0.6653
+2022-11-07 20:09:40.299 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6590
+2022-11-07 20:09:40.300 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9785
+2022-11-07 20:09:40.300 | INFO     | __main__:<module>:85 - Epoch 129, Loss: 0.0606, Test: 0.6590
+2022-11-07 20:10:42.748 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6530
+2022-11-07 20:10:42.749 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9813
+2022-11-07 20:10:42.749 | INFO     | __main__:<module>:85 - Epoch 130, Loss: 0.0521, Test: 0.6530
+2022-11-07 20:11:45.180 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6572
+2022-11-07 20:11:45.180 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9825
+2022-11-07 20:11:45.181 | INFO     | __main__:<module>:85 - Epoch 131, Loss: 0.0493, Test: 0.6572
+2022-11-07 20:12:47.652 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6508
+2022-11-07 20:12:47.652 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9792
+2022-11-07 20:12:47.652 | INFO     | __main__:<module>:85 - Epoch 132, Loss: 0.0555, Test: 0.6508
+2022-11-07 20:13:50.128 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6469
+2022-11-07 20:13:50.128 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9782
+2022-11-07 20:13:50.128 | INFO     | __main__:<module>:85 - Epoch 133, Loss: 0.0636, Test: 0.6469
+2022-11-07 20:14:52.543 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6458
+2022-11-07 20:14:52.544 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9715
+2022-11-07 20:14:52.544 | INFO     | __main__:<module>:85 - Epoch 134, Loss: 0.0813, Test: 0.6458
+2022-11-07 20:15:54.990 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6593
+2022-11-07 20:15:54.990 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9852
+2022-11-07 20:15:54.990 | INFO     | __main__:<module>:85 - Epoch 135, Loss: 0.0441, Test: 0.6593
+2022-11-07 20:16:57.393 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6548
+2022-11-07 20:16:57.393 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9811
+2022-11-07 20:16:57.393 | INFO     | __main__:<module>:85 - Epoch 136, Loss: 0.0539, Test: 0.6548
+2022-11-07 20:17:59.847 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6606
+2022-11-07 20:17:59.848 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9747
+2022-11-07 20:17:59.848 | INFO     | __main__:<module>:85 - Epoch 137, Loss: 0.0644, Test: 0.6606
+2022-11-07 20:19:02.320 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6690
+2022-11-07 20:19:02.321 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9835
+2022-11-07 20:19:02.321 | INFO     | __main__:<module>:85 - Epoch 138, Loss: 0.0474, Test: 0.6690
+2022-11-07 20:20:04.774 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6646
+2022-11-07 20:20:04.774 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9791
+2022-11-07 20:20:04.774 | INFO     | __main__:<module>:85 - Epoch 139, Loss: 0.0544, Test: 0.6646
+2022-11-07 20:21:07.173 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6566
+2022-11-07 20:21:07.174 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9823
+2022-11-07 20:21:07.174 | INFO     | __main__:<module>:85 - Epoch 140, Loss: 0.0504, Test: 0.6566
+2022-11-07 20:22:09.633 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6537
+2022-11-07 20:22:09.633 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9797
+2022-11-07 20:22:09.633 | INFO     | __main__:<module>:85 - Epoch 141, Loss: 0.0558, Test: 0.6537
+2022-11-07 20:23:12.037 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6585
+2022-11-07 20:23:12.037 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9838
+2022-11-07 20:23:12.038 | INFO     | __main__:<module>:85 - Epoch 142, Loss: 0.0449, Test: 0.6585
+2022-11-07 20:24:14.386 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6698
+2022-11-07 20:24:14.386 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9787
+2022-11-07 20:24:14.386 | INFO     | __main__:<module>:85 - Epoch 143, Loss: 0.0617, Test: 0.6698
+2022-11-07 20:25:16.853 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6733
+2022-11-07 20:25:16.854 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9796
+2022-11-07 20:25:16.854 | INFO     | __main__:<module>:85 - Epoch 144, Loss: 0.0544, Test: 0.6733
+2022-11-07 20:26:19.269 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6551
+2022-11-07 20:26:19.269 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9841
+2022-11-07 20:26:19.270 | INFO     | __main__:<module>:85 - Epoch 145, Loss: 0.0435, Test: 0.6551
+2022-11-07 20:27:21.723 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6711
+2022-11-07 20:27:21.724 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9767
+2022-11-07 20:27:21.724 | INFO     | __main__:<module>:85 - Epoch 146, Loss: 0.0636, Test: 0.6711
+2022-11-07 20:28:24.100 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6522
+2022-11-07 20:28:24.101 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9803
+2022-11-07 20:28:24.101 | INFO     | __main__:<module>:85 - Epoch 147, Loss: 0.0546, Test: 0.6522
+2022-11-07 20:29:26.536 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6585
+2022-11-07 20:29:26.536 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9821
+2022-11-07 20:29:26.536 | INFO     | __main__:<module>:85 - Epoch 148, Loss: 0.0491, Test: 0.6585
+2022-11-07 20:30:28.941 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6474
+2022-11-07 20:30:28.941 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9813
+2022-11-07 20:30:28.942 | INFO     | __main__:<module>:85 - Epoch 149, Loss: 0.0513, Test: 0.6474
+2022-11-07 20:31:31.332 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6624
+2022-11-07 20:31:31.332 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9798
+2022-11-07 20:31:31.332 | INFO     | __main__:<module>:85 - Epoch 150, Loss: 0.0591, Test: 0.6624
+2022-11-07 20:32:33.775 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6614
+2022-11-07 20:32:33.776 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9826
+2022-11-07 20:32:33.776 | INFO     | __main__:<module>:85 - Epoch 151, Loss: 0.0474, Test: 0.6614
+2022-11-07 20:33:36.199 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6561
+2022-11-07 20:33:36.199 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9834
+2022-11-07 20:33:36.200 | INFO     | __main__:<module>:85 - Epoch 152, Loss: 0.0464, Test: 0.6561
+2022-11-07 20:34:38.602 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6677
+2022-11-07 20:34:38.603 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9786
+2022-11-07 20:34:38.603 | INFO     | __main__:<module>:85 - Epoch 153, Loss: 0.0579, Test: 0.6677
+2022-11-07 20:35:41.005 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6572
+2022-11-07 20:35:41.005 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9850
+2022-11-07 20:35:41.005 | INFO     | __main__:<module>:85 - Epoch 154, Loss: 0.0452, Test: 0.6572
+2022-11-07 20:36:43.449 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6514
+2022-11-07 20:36:43.449 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9821
+2022-11-07 20:36:43.450 | INFO     | __main__:<module>:85 - Epoch 155, Loss: 0.0491, Test: 0.6514
+2022-11-07 20:37:45.885 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6485
+2022-11-07 20:37:45.886 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9803
+2022-11-07 20:37:45.886 | INFO     | __main__:<module>:85 - Epoch 156, Loss: 0.0566, Test: 0.6485
+2022-11-07 20:38:48.321 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6601
+2022-11-07 20:38:48.321 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9798
+2022-11-07 20:38:48.321 | INFO     | __main__:<module>:85 - Epoch 157, Loss: 0.0559, Test: 0.6601
+2022-11-07 20:39:50.789 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6556
+2022-11-07 20:39:50.790 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9825
+2022-11-07 20:39:50.790 | INFO     | __main__:<module>:85 - Epoch 158, Loss: 0.0489, Test: 0.6556
+2022-11-07 20:40:53.197 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6545
+2022-11-07 20:40:53.198 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9812
+2022-11-07 20:40:53.198 | INFO     | __main__:<module>:85 - Epoch 159, Loss: 0.0464, Test: 0.6545
+2022-11-07 20:41:55.592 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6369
+2022-11-07 20:41:55.592 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9854
+2022-11-07 20:41:55.593 | INFO     | __main__:<module>:85 - Epoch 160, Loss: 0.0434, Test: 0.6369
+2022-11-07 20:42:57.964 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6564
+2022-11-07 20:42:57.965 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9839
+2022-11-07 20:42:57.965 | INFO     | __main__:<module>:85 - Epoch 161, Loss: 0.0463, Test: 0.6564
+2022-11-07 20:44:00.300 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6656
+2022-11-07 20:44:00.301 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9796
+2022-11-07 20:44:00.301 | INFO     | __main__:<module>:85 - Epoch 162, Loss: 0.0555, Test: 0.6656
+2022-11-07 20:45:02.700 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6498
+2022-11-07 20:45:02.701 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9860
+2022-11-07 20:45:02.701 | INFO     | __main__:<module>:85 - Epoch 163, Loss: 0.0382, Test: 0.6498
+2022-11-07 20:46:05.148 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6619
+2022-11-07 20:46:05.148 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9841
+2022-11-07 20:46:05.148 | INFO     | __main__:<module>:85 - Epoch 164, Loss: 0.0446, Test: 0.6619
+2022-11-07 20:47:07.566 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6630
+2022-11-07 20:47:07.567 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9817
+2022-11-07 20:47:07.567 | INFO     | __main__:<module>:85 - Epoch 165, Loss: 0.0545, Test: 0.6630
+2022-11-07 20:48:09.941 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6717
+2022-11-07 20:48:09.941 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9824
+2022-11-07 20:48:09.942 | INFO     | __main__:<module>:85 - Epoch 166, Loss: 0.0460, Test: 0.6717
+2022-11-07 20:49:12.311 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6466
+2022-11-07 20:49:12.311 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9805
+2022-11-07 20:49:12.311 | INFO     | __main__:<module>:85 - Epoch 167, Loss: 0.0522, Test: 0.6466
+2022-11-07 20:50:14.710 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6619
+2022-11-07 20:50:14.710 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9837
+2022-11-07 20:50:14.710 | INFO     | __main__:<module>:85 - Epoch 168, Loss: 0.0524, Test: 0.6619
+2022-11-07 20:51:17.130 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6469
+2022-11-07 20:51:17.130 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9853
+2022-11-07 20:51:17.130 | INFO     | __main__:<module>:85 - Epoch 169, Loss: 0.0422, Test: 0.6469
+2022-11-07 20:52:19.463 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6443
+2022-11-07 20:52:19.463 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9795
+2022-11-07 20:52:19.463 | INFO     | __main__:<module>:85 - Epoch 170, Loss: 0.0539, Test: 0.6443
+2022-11-07 20:53:21.790 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6603
+2022-11-07 20:53:21.791 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9825
+2022-11-07 20:53:21.791 | INFO     | __main__:<module>:85 - Epoch 171, Loss: 0.0482, Test: 0.6603
+2022-11-07 20:54:24.157 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6537
+2022-11-07 20:54:24.157 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9850
+2022-11-07 20:54:24.157 | INFO     | __main__:<module>:85 - Epoch 172, Loss: 0.0446, Test: 0.6537
+2022-11-07 20:55:26.574 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6685
+2022-11-07 20:55:26.575 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9816
+2022-11-07 20:55:26.575 | INFO     | __main__:<module>:85 - Epoch 173, Loss: 0.0469, Test: 0.6685
+2022-11-07 20:56:28.935 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6524
+2022-11-07 20:56:28.935 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9833
+2022-11-07 20:56:28.936 | INFO     | __main__:<module>:85 - Epoch 174, Loss: 0.0445, Test: 0.6524
+2022-11-07 20:57:31.346 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6429
+2022-11-07 20:57:31.346 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9826
+2022-11-07 20:57:31.346 | INFO     | __main__:<module>:85 - Epoch 175, Loss: 0.0496, Test: 0.6429
+2022-11-07 20:58:33.748 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6184
+2022-11-07 20:58:33.749 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9827
+2022-11-07 20:58:33.749 | INFO     | __main__:<module>:85 - Epoch 176, Loss: 0.0481, Test: 0.6184
+2022-11-07 20:59:36.165 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6311
+2022-11-07 20:59:36.166 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9838
+2022-11-07 20:59:36.166 | INFO     | __main__:<module>:85 - Epoch 177, Loss: 0.0455, Test: 0.6311
+2022-11-07 21:00:38.539 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6179
+2022-11-07 21:00:38.539 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9859
+2022-11-07 21:00:38.540 | INFO     | __main__:<module>:85 - Epoch 178, Loss: 0.0403, Test: 0.6179
+2022-11-07 21:01:41.012 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6640
+2022-11-07 21:01:41.013 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9867
+2022-11-07 21:01:41.013 | INFO     | __main__:<module>:85 - Epoch 179, Loss: 0.0364, Test: 0.6640
+2022-11-07 21:02:43.410 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6464
+2022-11-07 21:02:43.410 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9792
+2022-11-07 21:02:43.411 | INFO     | __main__:<module>:85 - Epoch 180, Loss: 0.0558, Test: 0.6464
+2022-11-07 21:03:45.830 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6466
+2022-11-07 21:03:45.831 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9854
+2022-11-07 21:03:45.831 | INFO     | __main__:<module>:85 - Epoch 181, Loss: 0.0422, Test: 0.6466
+2022-11-07 21:04:48.227 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6688
+2022-11-07 21:04:48.227 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9873
+2022-11-07 21:04:48.227 | INFO     | __main__:<module>:85 - Epoch 182, Loss: 0.0401, Test: 0.6688
+2022-11-07 21:05:50.653 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6638
+2022-11-07 21:05:50.653 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9830
+2022-11-07 21:05:50.654 | INFO     | __main__:<module>:85 - Epoch 183, Loss: 0.0438, Test: 0.6638
+2022-11-07 21:06:53.107 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6717
+2022-11-07 21:06:53.108 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9823
+2022-11-07 21:06:53.108 | INFO     | __main__:<module>:85 - Epoch 184, Loss: 0.0482, Test: 0.6717
+2022-11-07 21:07:55.519 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6545
+2022-11-07 21:07:55.520 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9846
+2022-11-07 21:07:55.520 | INFO     | __main__:<module>:85 - Epoch 185, Loss: 0.0435, Test: 0.6545
+2022-11-07 21:08:57.958 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6023
+2022-11-07 21:08:57.959 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9829
+2022-11-07 21:08:57.959 | INFO     | __main__:<module>:85 - Epoch 186, Loss: 0.0471, Test: 0.6023
+2022-11-07 21:10:00.359 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6751
+2022-11-07 21:10:00.360 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9827
+2022-11-07 21:10:00.360 | INFO     | __main__:<module>:85 - Epoch 187, Loss: 0.0465, Test: 0.6751
+2022-11-07 21:11:02.772 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6440
+2022-11-07 21:11:02.772 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9841
+2022-11-07 21:11:02.772 | INFO     | __main__:<module>:85 - Epoch 188, Loss: 0.0419, Test: 0.6440
+2022-11-07 21:12:05.136 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6588
+2022-11-07 21:12:05.136 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9855
+2022-11-07 21:12:05.136 | INFO     | __main__:<module>:85 - Epoch 189, Loss: 0.0399, Test: 0.6588
+2022-11-07 21:13:07.499 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6598
+2022-11-07 21:13:07.500 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9870
+2022-11-07 21:13:07.500 | INFO     | __main__:<module>:85 - Epoch 190, Loss: 0.0347, Test: 0.6598
+2022-11-07 21:14:09.876 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6506
+2022-11-07 21:14:09.876 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9858
+2022-11-07 21:14:09.877 | INFO     | __main__:<module>:85 - Epoch 191, Loss: 0.0417, Test: 0.6506
+2022-11-07 21:15:12.303 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6746
+2022-11-07 21:15:12.303 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9846
+2022-11-07 21:15:12.304 | INFO     | __main__:<module>:85 - Epoch 192, Loss: 0.0428, Test: 0.6746
+2022-11-07 21:16:14.641 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6537
+2022-11-07 21:16:14.642 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9856
+2022-11-07 21:16:14.642 | INFO     | __main__:<module>:85 - Epoch 193, Loss: 0.0419, Test: 0.6537
+2022-11-07 21:17:16.967 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6261
+2022-11-07 21:17:16.967 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9828
+2022-11-07 21:17:16.967 | INFO     | __main__:<module>:85 - Epoch 194, Loss: 0.0460, Test: 0.6261
+2022-11-07 21:18:19.267 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6566
+2022-11-07 21:18:19.268 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9846
+2022-11-07 21:18:19.268 | INFO     | __main__:<module>:85 - Epoch 195, Loss: 0.0439, Test: 0.6566
+2022-11-07 21:19:21.585 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6553
+2022-11-07 21:19:21.586 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9857
+2022-11-07 21:19:21.586 | INFO     | __main__:<module>:85 - Epoch 196, Loss: 0.0413, Test: 0.6553
+2022-11-07 21:20:23.938 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6421
+2022-11-07 21:20:23.938 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9853
+2022-11-07 21:20:23.938 | INFO     | __main__:<module>:85 - Epoch 197, Loss: 0.0408, Test: 0.6421
+2022-11-07 21:21:26.272 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6461
+2022-11-07 21:21:26.272 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9831
+2022-11-07 21:21:26.272 | INFO     | __main__:<module>:85 - Epoch 198, Loss: 0.0457, Test: 0.6461
+2022-11-07 21:22:28.614 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6490
+2022-11-07 21:22:28.615 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9861
+2022-11-07 21:22:28.615 | INFO     | __main__:<module>:85 - Epoch 199, Loss: 0.0387, Test: 0.6490
+2022-11-07 21:23:30.944 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6701
+2022-11-07 21:23:30.944 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9867
+2022-11-07 21:23:30.944 | INFO     | __main__:<module>:85 - Epoch 200, Loss: 0.0371, Test: 0.6701
+2022-11-07 21:24:33.272 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6741
+2022-11-07 21:24:33.272 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9843
+2022-11-07 21:24:33.273 | INFO     | __main__:<module>:85 - Epoch 201, Loss: 0.0435, Test: 0.6741
+2022-11-07 21:25:35.592 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6677
+2022-11-07 21:25:35.592 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9842
+2022-11-07 21:25:35.592 | INFO     | __main__:<module>:85 - Epoch 202, Loss: 0.0482, Test: 0.6677
+2022-11-07 21:26:37.876 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6445
+2022-11-07 21:26:37.876 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9864
+2022-11-07 21:26:37.877 | INFO     | __main__:<module>:85 - Epoch 203, Loss: 0.0424, Test: 0.6445
+2022-11-07 21:27:40.157 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6622
+2022-11-07 21:27:40.157 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9883
+2022-11-07 21:27:40.157 | INFO     | __main__:<module>:85 - Epoch 204, Loss: 0.0326, Test: 0.6622
+2022-11-07 21:28:42.430 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6566
+2022-11-07 21:28:42.430 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9839
+2022-11-07 21:28:42.430 | INFO     | __main__:<module>:85 - Epoch 205, Loss: 0.0447, Test: 0.6566
+2022-11-07 21:29:44.748 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6643
+2022-11-07 21:29:44.748 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9865
+2022-11-07 21:29:44.749 | INFO     | __main__:<module>:85 - Epoch 206, Loss: 0.0405, Test: 0.6643
+2022-11-07 21:30:47.067 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6622
+2022-11-07 21:30:47.067 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9875
+2022-11-07 21:30:47.068 | INFO     | __main__:<module>:85 - Epoch 207, Loss: 0.0373, Test: 0.6622
+2022-11-07 21:31:49.415 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6374
+2022-11-07 21:31:49.416 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9835
+2022-11-07 21:31:49.416 | INFO     | __main__:<module>:85 - Epoch 208, Loss: 0.0467, Test: 0.6374
+2022-11-07 21:32:51.718 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6574
+2022-11-07 21:32:51.718 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9861
+2022-11-07 21:32:51.719 | INFO     | __main__:<module>:85 - Epoch 209, Loss: 0.0393, Test: 0.6574
+2022-11-07 21:33:53.997 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6543
+2022-11-07 21:33:53.997 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9846
+2022-11-07 21:33:53.997 | INFO     | __main__:<module>:85 - Epoch 210, Loss: 0.0438, Test: 0.6543
+2022-11-07 21:34:56.294 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6588
+2022-11-07 21:34:56.295 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9833
+2022-11-07 21:34:56.295 | INFO     | __main__:<module>:85 - Epoch 211, Loss: 0.0472, Test: 0.6588
+2022-11-07 21:35:58.626 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6530
+2022-11-07 21:35:58.627 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9861
+2022-11-07 21:35:58.627 | INFO     | __main__:<module>:85 - Epoch 212, Loss: 0.0393, Test: 0.6530
+2022-11-07 21:37:00.936 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6664
+2022-11-07 21:37:00.936 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9889
+2022-11-07 21:37:00.936 | INFO     | __main__:<module>:85 - Epoch 213, Loss: 0.0313, Test: 0.6664
+2022-11-07 21:38:03.341 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6326
+2022-11-07 21:38:03.341 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9837
+2022-11-07 21:38:03.341 | INFO     | __main__:<module>:85 - Epoch 214, Loss: 0.0456, Test: 0.6326
+2022-11-07 21:39:05.666 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6656
+2022-11-07 21:39:05.666 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9865
+2022-11-07 21:39:05.667 | INFO     | __main__:<module>:85 - Epoch 215, Loss: 0.0390, Test: 0.6656
+2022-11-07 21:40:07.962 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6622
+2022-11-07 21:40:07.963 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9852
+2022-11-07 21:40:07.963 | INFO     | __main__:<module>:85 - Epoch 216, Loss: 0.0427, Test: 0.6622
+2022-11-07 21:41:10.338 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6522
+2022-11-07 21:41:10.338 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9887
+2022-11-07 21:41:10.338 | INFO     | __main__:<module>:85 - Epoch 217, Loss: 0.0319, Test: 0.6522
+2022-11-07 21:42:12.695 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6693
+2022-11-07 21:42:12.695 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9856
+2022-11-07 21:42:12.695 | INFO     | __main__:<module>:85 - Epoch 218, Loss: 0.0401, Test: 0.6693
+2022-11-07 21:43:15.049 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6553
+2022-11-07 21:43:15.050 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9864
+2022-11-07 21:43:15.050 | INFO     | __main__:<module>:85 - Epoch 219, Loss: 0.0373, Test: 0.6553
+2022-11-07 21:44:17.421 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6601
+2022-11-07 21:44:17.422 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9904
+2022-11-07 21:44:17.422 | INFO     | __main__:<module>:85 - Epoch 220, Loss: 0.0297, Test: 0.6601
+2022-11-07 21:45:19.835 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6685
+2022-11-07 21:45:19.836 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9852
+2022-11-07 21:45:19.836 | INFO     | __main__:<module>:85 - Epoch 221, Loss: 0.0424, Test: 0.6685
+2022-11-07 21:46:22.193 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6638
+2022-11-07 21:46:22.194 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9887
+2022-11-07 21:46:22.194 | INFO     | __main__:<module>:85 - Epoch 222, Loss: 0.0351, Test: 0.6638
+2022-11-07 21:47:24.520 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6603
+2022-11-07 21:47:24.520 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9848
+2022-11-07 21:47:24.520 | INFO     | __main__:<module>:85 - Epoch 223, Loss: 0.0426, Test: 0.6603
+2022-11-07 21:48:26.834 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6543
+2022-11-07 21:48:26.835 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9875
+2022-11-07 21:48:26.835 | INFO     | __main__:<module>:85 - Epoch 224, Loss: 0.0373, Test: 0.6543
+2022-11-07 21:49:29.244 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6522
+2022-11-07 21:49:29.245 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9845
+2022-11-07 21:49:29.245 | INFO     | __main__:<module>:85 - Epoch 225, Loss: 0.0432, Test: 0.6522
+2022-11-07 21:50:31.502 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6524
+2022-11-07 21:50:31.502 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9836
+2022-11-07 21:50:31.502 | INFO     | __main__:<module>:85 - Epoch 226, Loss: 0.0481, Test: 0.6524
+2022-11-07 21:51:33.718 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6461
+2022-11-07 21:51:33.718 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9856
+2022-11-07 21:51:33.718 | INFO     | __main__:<module>:85 - Epoch 227, Loss: 0.0399, Test: 0.6461
+2022-11-07 21:52:36.013 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6632
+2022-11-07 21:52:36.013 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9848
+2022-11-07 21:52:36.014 | INFO     | __main__:<module>:85 - Epoch 228, Loss: 0.0467, Test: 0.6632
+2022-11-07 21:53:38.367 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6450
+2022-11-07 21:53:38.367 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9871
+2022-11-07 21:53:38.368 | INFO     | __main__:<module>:85 - Epoch 229, Loss: 0.0369, Test: 0.6450
+2022-11-07 21:54:40.711 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6685
+2022-11-07 21:54:40.711 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9871
+2022-11-07 21:54:40.711 | INFO     | __main__:<module>:85 - Epoch 230, Loss: 0.0367, Test: 0.6685
+2022-11-07 21:55:43.067 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6598
+2022-11-07 21:55:43.067 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9871
+2022-11-07 21:55:43.067 | INFO     | __main__:<module>:85 - Epoch 231, Loss: 0.0366, Test: 0.6598
+2022-11-07 21:56:45.325 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6582
+2022-11-07 21:56:45.325 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9889
+2022-11-07 21:56:45.325 | INFO     | __main__:<module>:85 - Epoch 232, Loss: 0.0329, Test: 0.6582
+2022-11-07 21:57:47.589 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6698
+2022-11-07 21:57:47.589 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9869
+2022-11-07 21:57:47.589 | INFO     | __main__:<module>:85 - Epoch 233, Loss: 0.0390, Test: 0.6698
+2022-11-07 21:58:49.874 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6511
+2022-11-07 21:58:49.875 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9866
+2022-11-07 21:58:49.875 | INFO     | __main__:<module>:85 - Epoch 234, Loss: 0.0407, Test: 0.6511
+2022-11-07 21:59:52.153 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6530
+2022-11-07 21:59:52.154 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9864
+2022-11-07 21:59:52.154 | INFO     | __main__:<module>:85 - Epoch 235, Loss: 0.0385, Test: 0.6530
+2022-11-07 22:00:54.417 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6572
+2022-11-07 22:00:54.417 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9846
+2022-11-07 22:00:54.418 | INFO     | __main__:<module>:85 - Epoch 236, Loss: 0.0435, Test: 0.6572
+2022-11-07 22:01:56.662 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6632
+2022-11-07 22:01:56.662 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9879
+2022-11-07 22:01:56.662 | INFO     | __main__:<module>:85 - Epoch 237, Loss: 0.0340, Test: 0.6632
+2022-11-07 22:02:58.888 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6735
+2022-11-07 22:02:58.888 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9885
+2022-11-07 22:02:58.888 | INFO     | __main__:<module>:85 - Epoch 238, Loss: 0.0333, Test: 0.6735
+2022-11-07 22:04:01.136 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6664
+2022-11-07 22:04:01.136 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9867
+2022-11-07 22:04:01.136 | INFO     | __main__:<module>:85 - Epoch 239, Loss: 0.0412, Test: 0.6664
+2022-11-07 22:05:03.373 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6530
+2022-11-07 22:05:03.374 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9876
+2022-11-07 22:05:03.374 | INFO     | __main__:<module>:85 - Epoch 240, Loss: 0.0362, Test: 0.6530
+2022-11-07 22:06:05.659 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6585
+2022-11-07 22:06:05.659 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9875
+2022-11-07 22:06:05.659 | INFO     | __main__:<module>:85 - Epoch 241, Loss: 0.0375, Test: 0.6585
+2022-11-07 22:07:07.873 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6355
+2022-11-07 22:07:07.874 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9885
+2022-11-07 22:07:07.874 | INFO     | __main__:<module>:85 - Epoch 242, Loss: 0.0340, Test: 0.6355
+2022-11-07 22:08:10.152 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6503
+2022-11-07 22:08:10.153 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9883
+2022-11-07 22:08:10.153 | INFO     | __main__:<module>:85 - Epoch 243, Loss: 0.0342, Test: 0.6503
+2022-11-07 22:09:12.444 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6601
+2022-11-07 22:09:12.444 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9889
+2022-11-07 22:09:12.445 | INFO     | __main__:<module>:85 - Epoch 244, Loss: 0.0326, Test: 0.6601
+2022-11-07 22:10:14.718 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6698
+2022-11-07 22:10:14.719 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9857
+2022-11-07 22:10:14.719 | INFO     | __main__:<module>:85 - Epoch 245, Loss: 0.0380, Test: 0.6698
+2022-11-07 22:11:16.950 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6661
+2022-11-07 22:11:16.950 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9852
+2022-11-07 22:11:16.950 | INFO     | __main__:<module>:85 - Epoch 246, Loss: 0.0418, Test: 0.6661
+2022-11-07 22:12:19.175 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6611
+2022-11-07 22:12:19.176 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9875
+2022-11-07 22:12:19.176 | INFO     | __main__:<module>:85 - Epoch 247, Loss: 0.0369, Test: 0.6611
+2022-11-07 22:13:21.493 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6519
+2022-11-07 22:13:21.493 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9864
+2022-11-07 22:13:21.493 | INFO     | __main__:<module>:85 - Epoch 248, Loss: 0.0381, Test: 0.6519
+2022-11-07 22:14:23.757 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6603
+2022-11-07 22:14:23.757 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9865
+2022-11-07 22:14:23.757 | INFO     | __main__:<module>:85 - Epoch 249, Loss: 0.0365, Test: 0.6603
+2022-11-07 22:15:25.989 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6472
+2022-11-07 22:15:25.989 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-07 22:15:25.990 | INFO     | __main__:<module>:85 - Epoch 250, Loss: 0.0272, Test: 0.6472
+2022-11-07 22:16:28.259 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6614
+2022-11-07 22:16:28.259 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9895
+2022-11-07 22:16:28.259 | INFO     | __main__:<module>:85 - Epoch 251, Loss: 0.0309, Test: 0.6614
+2022-11-07 22:17:30.505 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6585
+2022-11-07 22:17:30.506 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9863
+2022-11-07 22:17:30.506 | INFO     | __main__:<module>:85 - Epoch 252, Loss: 0.0407, Test: 0.6585
+2022-11-07 22:18:32.719 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6653
+2022-11-07 22:18:32.719 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9867
+2022-11-07 22:18:32.719 | INFO     | __main__:<module>:85 - Epoch 253, Loss: 0.0388, Test: 0.6653
+2022-11-07 22:19:34.944 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6369
+2022-11-07 22:19:34.944 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9845
+2022-11-07 22:19:34.945 | INFO     | __main__:<module>:85 - Epoch 254, Loss: 0.0421, Test: 0.6369
+2022-11-07 22:20:37.197 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6614
+2022-11-07 22:20:37.197 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9862
+2022-11-07 22:20:37.197 | INFO     | __main__:<module>:85 - Epoch 255, Loss: 0.0379, Test: 0.6614
+2022-11-07 22:21:39.429 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6406
+2022-11-07 22:21:39.429 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9915
+2022-11-07 22:21:39.429 | INFO     | __main__:<module>:85 - Epoch 256, Loss: 0.0240, Test: 0.6406
+2022-11-07 22:22:41.620 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6561
+2022-11-07 22:22:41.620 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9860
+2022-11-07 22:22:41.620 | INFO     | __main__:<module>:85 - Epoch 257, Loss: 0.0391, Test: 0.6561
+2022-11-07 22:23:43.830 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6593
+2022-11-07 22:23:43.831 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9862
+2022-11-07 22:23:43.831 | INFO     | __main__:<module>:85 - Epoch 258, Loss: 0.0453, Test: 0.6593
+2022-11-07 22:24:46.105 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6680
+2022-11-07 22:24:46.106 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9892
+2022-11-07 22:24:46.106 | INFO     | __main__:<module>:85 - Epoch 259, Loss: 0.0305, Test: 0.6680
+2022-11-07 22:25:48.371 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6342
+2022-11-07 22:25:48.372 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9893
+2022-11-07 22:25:48.372 | INFO     | __main__:<module>:85 - Epoch 260, Loss: 0.0312, Test: 0.6342
+2022-11-07 22:26:50.671 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6661
+2022-11-07 22:26:50.672 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9889
+2022-11-07 22:26:50.672 | INFO     | __main__:<module>:85 - Epoch 261, Loss: 0.0305, Test: 0.6661
+2022-11-07 22:27:52.947 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6733
+2022-11-07 22:27:52.948 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9880
+2022-11-07 22:27:52.948 | INFO     | __main__:<module>:85 - Epoch 262, Loss: 0.0332, Test: 0.6733
+2022-11-07 22:28:55.189 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6382
+2022-11-07 22:28:55.189 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9843
+2022-11-07 22:28:55.189 | INFO     | __main__:<module>:85 - Epoch 263, Loss: 0.0449, Test: 0.6382
+2022-11-07 22:29:57.448 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6564
+2022-11-07 22:29:57.448 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9893
+2022-11-07 22:29:57.448 | INFO     | __main__:<module>:85 - Epoch 264, Loss: 0.0301, Test: 0.6564
+2022-11-07 22:30:59.704 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6284
+2022-11-07 22:30:59.705 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9871
+2022-11-07 22:30:59.705 | INFO     | __main__:<module>:85 - Epoch 265, Loss: 0.0361, Test: 0.6284
+2022-11-07 22:32:01.874 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6624
+2022-11-07 22:32:01.874 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-07 22:32:01.874 | INFO     | __main__:<module>:85 - Epoch 266, Loss: 0.0289, Test: 0.6624
+2022-11-07 22:33:04.063 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6561
+2022-11-07 22:33:04.063 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9877
+2022-11-07 22:33:04.064 | INFO     | __main__:<module>:85 - Epoch 267, Loss: 0.0351, Test: 0.6561
+2022-11-07 22:34:06.327 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6472
+2022-11-07 22:34:06.327 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9869
+2022-11-07 22:34:06.328 | INFO     | __main__:<module>:85 - Epoch 268, Loss: 0.0388, Test: 0.6472
+2022-11-07 22:35:08.540 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6495
+2022-11-07 22:35:08.540 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9864
+2022-11-07 22:35:08.540 | INFO     | __main__:<module>:85 - Epoch 269, Loss: 0.0374, Test: 0.6495
+2022-11-07 22:36:10.834 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6624
+2022-11-07 22:36:10.835 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9845
+2022-11-07 22:36:10.835 | INFO     | __main__:<module>:85 - Epoch 270, Loss: 0.0407, Test: 0.6624
+2022-11-07 22:37:13.053 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6384
+2022-11-07 22:37:13.053 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9867
+2022-11-07 22:37:13.054 | INFO     | __main__:<module>:85 - Epoch 271, Loss: 0.0359, Test: 0.6384
+2022-11-07 22:38:15.225 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6611
+2022-11-07 22:38:15.226 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9877
+2022-11-07 22:38:15.226 | INFO     | __main__:<module>:85 - Epoch 272, Loss: 0.0344, Test: 0.6611
+2022-11-07 22:39:17.463 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6564
+2022-11-07 22:39:17.464 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9886
+2022-11-07 22:39:17.464 | INFO     | __main__:<module>:85 - Epoch 273, Loss: 0.0326, Test: 0.6564
+2022-11-07 22:40:19.673 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6464
+2022-11-07 22:40:19.673 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9905
+2022-11-07 22:40:19.674 | INFO     | __main__:<module>:85 - Epoch 274, Loss: 0.0278, Test: 0.6464
+2022-11-07 22:41:21.830 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6445
+2022-11-07 22:41:21.831 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9869
+2022-11-07 22:41:21.831 | INFO     | __main__:<module>:85 - Epoch 275, Loss: 0.0378, Test: 0.6445
+2022-11-07 22:42:24.018 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6332
+2022-11-07 22:42:24.018 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9883
+2022-11-07 22:42:24.018 | INFO     | __main__:<module>:85 - Epoch 276, Loss: 0.0312, Test: 0.6332
+2022-11-07 22:43:26.154 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6556
+2022-11-07 22:43:26.154 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9860
+2022-11-07 22:43:26.154 | INFO     | __main__:<module>:85 - Epoch 277, Loss: 0.0388, Test: 0.6556
+2022-11-07 22:44:28.351 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6651
+2022-11-07 22:44:28.351 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9883
+2022-11-07 22:44:28.352 | INFO     | __main__:<module>:85 - Epoch 278, Loss: 0.0326, Test: 0.6651
+2022-11-07 22:45:30.577 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6635
+2022-11-07 22:45:30.577 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-07 22:45:30.578 | INFO     | __main__:<module>:85 - Epoch 279, Loss: 0.0218, Test: 0.6635
+2022-11-07 22:46:32.749 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6717
+2022-11-07 22:46:32.749 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9857
+2022-11-07 22:46:32.750 | INFO     | __main__:<module>:85 - Epoch 280, Loss: 0.0390, Test: 0.6717
+2022-11-07 22:47:34.915 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6490
+2022-11-07 22:47:34.915 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9841
+2022-11-07 22:47:34.915 | INFO     | __main__:<module>:85 - Epoch 281, Loss: 0.0422, Test: 0.6490
+2022-11-07 22:48:37.172 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6646
+2022-11-07 22:48:37.172 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9877
+2022-11-07 22:48:37.172 | INFO     | __main__:<module>:85 - Epoch 282, Loss: 0.0367, Test: 0.6646
+2022-11-07 22:49:39.385 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6648
+2022-11-07 22:49:39.386 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9898
+2022-11-07 22:49:39.386 | INFO     | __main__:<module>:85 - Epoch 283, Loss: 0.0302, Test: 0.6648
+2022-11-07 22:50:41.582 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6611
+2022-11-07 22:50:41.583 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9881
+2022-11-07 22:50:41.583 | INFO     | __main__:<module>:85 - Epoch 284, Loss: 0.0358, Test: 0.6611
+2022-11-07 22:51:43.755 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6545
+2022-11-07 22:51:43.755 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9913
+2022-11-07 22:51:43.755 | INFO     | __main__:<module>:85 - Epoch 285, Loss: 0.0269, Test: 0.6545
+2022-11-07 22:52:45.881 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6443
+2022-11-07 22:52:45.882 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9866
+2022-11-07 22:52:45.882 | INFO     | __main__:<module>:85 - Epoch 286, Loss: 0.0391, Test: 0.6443
+2022-11-07 22:53:48.040 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6443
+2022-11-07 22:53:48.040 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9915
+2022-11-07 22:53:48.040 | INFO     | __main__:<module>:85 - Epoch 287, Loss: 0.0263, Test: 0.6443
+2022-11-07 22:54:50.209 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6624
+2022-11-07 22:54:50.209 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9867
+2022-11-07 22:54:50.210 | INFO     | __main__:<module>:85 - Epoch 288, Loss: 0.0402, Test: 0.6624
+2022-11-07 22:55:52.374 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6590
+2022-11-07 22:55:52.374 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9900
+2022-11-07 22:55:52.374 | INFO     | __main__:<module>:85 - Epoch 289, Loss: 0.0305, Test: 0.6590
+2022-11-07 22:56:54.527 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6595
+2022-11-07 22:56:54.527 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9872
+2022-11-07 22:56:54.527 | INFO     | __main__:<module>:85 - Epoch 290, Loss: 0.0360, Test: 0.6595
+2022-11-07 22:57:56.662 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6640
+2022-11-07 22:57:56.662 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9895
+2022-11-07 22:57:56.662 | INFO     | __main__:<module>:85 - Epoch 291, Loss: 0.0304, Test: 0.6640
+2022-11-07 22:58:58.789 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6630
+2022-11-07 22:58:58.790 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9869
+2022-11-07 22:58:58.790 | INFO     | __main__:<module>:85 - Epoch 292, Loss: 0.0388, Test: 0.6630
+2022-11-07 23:00:00.904 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6617
+2022-11-07 23:00:00.904 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9910
+2022-11-07 23:00:00.904 | INFO     | __main__:<module>:85 - Epoch 293, Loss: 0.0274, Test: 0.6617
+2022-11-07 23:01:03.007 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6450
+2022-11-07 23:01:03.007 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9905
+2022-11-07 23:01:03.007 | INFO     | __main__:<module>:85 - Epoch 294, Loss: 0.0276, Test: 0.6450
+2022-11-07 23:02:05.147 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6527
+2022-11-07 23:02:05.147 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9859
+2022-11-07 23:02:05.147 | INFO     | __main__:<module>:85 - Epoch 295, Loss: 0.0422, Test: 0.6527
+2022-11-07 23:03:07.287 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6614
+2022-11-07 23:03:07.287 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9885
+2022-11-07 23:03:07.288 | INFO     | __main__:<module>:85 - Epoch 296, Loss: 0.0326, Test: 0.6614
+2022-11-07 23:04:09.454 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6574
+2022-11-07 23:04:09.454 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9896
+2022-11-07 23:04:09.454 | INFO     | __main__:<module>:85 - Epoch 297, Loss: 0.0296, Test: 0.6574
+2022-11-07 23:05:11.578 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6487
+2022-11-07 23:05:11.578 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9886
+2022-11-07 23:05:11.579 | INFO     | __main__:<module>:85 - Epoch 298, Loss: 0.0331, Test: 0.6487
+2022-11-07 23:06:13.708 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6593
+2022-11-07 23:06:13.709 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9909
+2022-11-07 23:06:13.709 | INFO     | __main__:<module>:85 - Epoch 299, Loss: 0.0279, Test: 0.6593
+2022-11-07 23:07:15.894 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6511
+2022-11-07 23:07:15.894 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9889
+2022-11-07 23:07:15.895 | INFO     | __main__:<module>:85 - Epoch 300, Loss: 0.0321, Test: 0.6511
+2022-11-07 23:08:18.085 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6711
+2022-11-07 23:08:18.085 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9886
+2022-11-07 23:08:18.085 | INFO     | __main__:<module>:85 - Epoch 301, Loss: 0.0321, Test: 0.6711
+2022-11-07 23:09:20.283 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6564
+2022-11-07 23:09:20.283 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9929
+2022-11-07 23:09:20.284 | INFO     | __main__:<module>:85 - Epoch 302, Loss: 0.0228, Test: 0.6564
+2022-11-07 23:10:22.543 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6653
+2022-11-07 23:10:22.544 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9888
+2022-11-07 23:10:22.544 | INFO     | __main__:<module>:85 - Epoch 303, Loss: 0.0305, Test: 0.6653
+2022-11-07 23:11:24.737 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6672
+2022-11-07 23:11:24.738 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9894
+2022-11-07 23:11:24.738 | INFO     | __main__:<module>:85 - Epoch 304, Loss: 0.0311, Test: 0.6672
+2022-11-07 23:12:26.873 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6730
+2022-11-07 23:12:26.873 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9871
+2022-11-07 23:12:26.873 | INFO     | __main__:<module>:85 - Epoch 305, Loss: 0.0371, Test: 0.6730
+2022-11-07 23:13:29.005 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6669
+2022-11-07 23:13:29.006 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9890
+2022-11-07 23:13:29.006 | INFO     | __main__:<module>:85 - Epoch 306, Loss: 0.0316, Test: 0.6669
+2022-11-07 23:14:31.153 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6540
+2022-11-07 23:14:31.154 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9895
+2022-11-07 23:14:31.154 | INFO     | __main__:<module>:85 - Epoch 307, Loss: 0.0314, Test: 0.6540
+2022-11-07 23:15:33.290 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6358
+2022-11-07 23:15:33.290 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9899
+2022-11-07 23:15:33.291 | INFO     | __main__:<module>:85 - Epoch 308, Loss: 0.0305, Test: 0.6358
+2022-11-07 23:16:35.458 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6630
+2022-11-07 23:16:35.459 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9893
+2022-11-07 23:16:35.459 | INFO     | __main__:<module>:85 - Epoch 309, Loss: 0.0290, Test: 0.6630
+2022-11-07 23:17:37.648 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6527
+2022-11-07 23:17:37.648 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-07 23:17:37.648 | INFO     | __main__:<module>:85 - Epoch 310, Loss: 0.0249, Test: 0.6527
+2022-11-07 23:18:39.841 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6508
+2022-11-07 23:18:39.841 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9841
+2022-11-07 23:18:39.841 | INFO     | __main__:<module>:85 - Epoch 311, Loss: 0.0420, Test: 0.6508
+2022-11-07 23:19:42.020 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6559
+2022-11-07 23:19:42.021 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9838
+2022-11-07 23:19:42.021 | INFO     | __main__:<module>:85 - Epoch 312, Loss: 0.0422, Test: 0.6559
+2022-11-07 23:20:44.161 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6638
+2022-11-07 23:20:44.161 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9912
+2022-11-07 23:20:44.162 | INFO     | __main__:<module>:85 - Epoch 313, Loss: 0.0272, Test: 0.6638
+2022-11-07 23:21:46.349 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6606
+2022-11-07 23:21:46.350 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-07 23:21:46.350 | INFO     | __main__:<module>:85 - Epoch 314, Loss: 0.0229, Test: 0.6606
+2022-11-07 23:22:48.621 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6524
+2022-11-07 23:22:48.622 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9877
+2022-11-07 23:22:48.622 | INFO     | __main__:<module>:85 - Epoch 315, Loss: 0.0336, Test: 0.6524
+2022-11-07 23:23:50.868 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6247
+2022-11-07 23:23:50.868 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9896
+2022-11-07 23:23:50.868 | INFO     | __main__:<module>:85 - Epoch 316, Loss: 0.0320, Test: 0.6247
+2022-11-07 23:24:53.115 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6614
+2022-11-07 23:24:53.116 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9901
+2022-11-07 23:24:53.116 | INFO     | __main__:<module>:85 - Epoch 317, Loss: 0.0287, Test: 0.6614
+2022-11-07 23:25:55.382 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6564
+2022-11-07 23:25:55.383 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9876
+2022-11-07 23:25:55.383 | INFO     | __main__:<module>:85 - Epoch 318, Loss: 0.0374, Test: 0.6564
+2022-11-07 23:26:57.674 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6374
+2022-11-07 23:26:57.675 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9884
+2022-11-07 23:26:57.675 | INFO     | __main__:<module>:85 - Epoch 319, Loss: 0.0347, Test: 0.6374
+2022-11-07 23:28:00.009 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6493
+2022-11-07 23:28:00.010 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9867
+2022-11-07 23:28:00.010 | INFO     | __main__:<module>:85 - Epoch 320, Loss: 0.0369, Test: 0.6493
+2022-11-07 23:29:02.326 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6443
+2022-11-07 23:29:02.326 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9904
+2022-11-07 23:29:02.326 | INFO     | __main__:<module>:85 - Epoch 321, Loss: 0.0277, Test: 0.6443
+2022-11-07 23:30:04.559 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6559
+2022-11-07 23:30:04.559 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9892
+2022-11-07 23:30:04.559 | INFO     | __main__:<module>:85 - Epoch 322, Loss: 0.0312, Test: 0.6559
+2022-11-07 23:31:06.900 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6585
+2022-11-07 23:31:06.900 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9878
+2022-11-07 23:31:06.900 | INFO     | __main__:<module>:85 - Epoch 323, Loss: 0.0356, Test: 0.6585
+2022-11-07 23:32:09.173 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6630
+2022-11-07 23:32:09.173 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9879
+2022-11-07 23:32:09.174 | INFO     | __main__:<module>:85 - Epoch 324, Loss: 0.0343, Test: 0.6630
+2022-11-07 23:33:11.438 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6553
+2022-11-07 23:33:11.439 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9899
+2022-11-07 23:33:11.439 | INFO     | __main__:<module>:85 - Epoch 325, Loss: 0.0264, Test: 0.6553
+2022-11-07 23:34:13.602 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6448
+2022-11-07 23:34:13.602 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9880
+2022-11-07 23:34:13.603 | INFO     | __main__:<module>:85 - Epoch 326, Loss: 0.0333, Test: 0.6448
+2022-11-07 23:35:15.840 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6503
+2022-11-07 23:35:15.841 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9895
+2022-11-07 23:35:15.841 | INFO     | __main__:<module>:85 - Epoch 327, Loss: 0.0285, Test: 0.6503
+2022-11-07 23:36:18.095 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6611
+2022-11-07 23:36:18.095 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9895
+2022-11-07 23:36:18.095 | INFO     | __main__:<module>:85 - Epoch 328, Loss: 0.0295, Test: 0.6611
+2022-11-07 23:37:20.341 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6588
+2022-11-07 23:37:20.341 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9883
+2022-11-07 23:37:20.341 | INFO     | __main__:<module>:85 - Epoch 329, Loss: 0.0319, Test: 0.6588
+2022-11-07 23:38:22.537 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6648
+2022-11-07 23:38:22.537 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9895
+2022-11-07 23:38:22.537 | INFO     | __main__:<module>:85 - Epoch 330, Loss: 0.0321, Test: 0.6648
+2022-11-07 23:39:24.789 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6395
+2022-11-07 23:39:24.789 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-07 23:39:24.790 | INFO     | __main__:<module>:85 - Epoch 331, Loss: 0.0252, Test: 0.6395
+2022-11-07 23:40:27.043 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6569
+2022-11-07 23:40:27.043 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-07 23:40:27.043 | INFO     | __main__:<module>:85 - Epoch 332, Loss: 0.0240, Test: 0.6569
+2022-11-07 23:41:29.268 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6490
+2022-11-07 23:41:29.269 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9896
+2022-11-07 23:41:29.269 | INFO     | __main__:<module>:85 - Epoch 333, Loss: 0.0296, Test: 0.6490
+2022-11-07 23:42:31.432 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6479
+2022-11-07 23:42:31.432 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-07 23:42:31.432 | INFO     | __main__:<module>:85 - Epoch 334, Loss: 0.0305, Test: 0.6479
+2022-11-07 23:43:33.642 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6646
+2022-11-07 23:43:33.642 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9867
+2022-11-07 23:43:33.643 | INFO     | __main__:<module>:85 - Epoch 335, Loss: 0.0361, Test: 0.6646
+2022-11-07 23:44:35.866 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6440
+2022-11-07 23:44:35.866 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9910
+2022-11-07 23:44:35.867 | INFO     | __main__:<module>:85 - Epoch 336, Loss: 0.0263, Test: 0.6440
+2022-11-07 23:45:38.113 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6366
+2022-11-07 23:45:38.113 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9877
+2022-11-07 23:45:38.113 | INFO     | __main__:<module>:85 - Epoch 337, Loss: 0.0334, Test: 0.6366
+2022-11-07 23:46:40.302 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6630
+2022-11-07 23:46:40.302 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9885
+2022-11-07 23:46:40.302 | INFO     | __main__:<module>:85 - Epoch 338, Loss: 0.0343, Test: 0.6630
+2022-11-07 23:47:42.516 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6553
+2022-11-07 23:47:42.517 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9917
+2022-11-07 23:47:42.517 | INFO     | __main__:<module>:85 - Epoch 339, Loss: 0.0261, Test: 0.6553
+2022-11-07 23:48:44.742 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6661
+2022-11-07 23:48:44.742 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9867
+2022-11-07 23:48:44.742 | INFO     | __main__:<module>:85 - Epoch 340, Loss: 0.0441, Test: 0.6661
+2022-11-07 23:49:46.931 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6624
+2022-11-07 23:49:46.932 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9889
+2022-11-07 23:49:46.932 | INFO     | __main__:<module>:85 - Epoch 341, Loss: 0.0326, Test: 0.6624
+2022-11-07 23:50:49.118 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6081
+2022-11-07 23:50:49.118 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9892
+2022-11-07 23:50:49.119 | INFO     | __main__:<module>:85 - Epoch 342, Loss: 0.0317, Test: 0.6081
+2022-11-07 23:51:51.369 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6638
+2022-11-07 23:51:51.370 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9908
+2022-11-07 23:51:51.370 | INFO     | __main__:<module>:85 - Epoch 343, Loss: 0.0271, Test: 0.6638
+2022-11-07 23:52:53.599 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6345
+2022-11-07 23:52:53.599 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9889
+2022-11-07 23:52:53.599 | INFO     | __main__:<module>:85 - Epoch 344, Loss: 0.0320, Test: 0.6345
+2022-11-07 23:53:55.828 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6595
+2022-11-07 23:53:55.829 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9882
+2022-11-07 23:53:55.829 | INFO     | __main__:<module>:85 - Epoch 345, Loss: 0.0330, Test: 0.6595
+2022-11-07 23:54:58.033 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6493
+2022-11-07 23:54:58.034 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9911
+2022-11-07 23:54:58.034 | INFO     | __main__:<module>:85 - Epoch 346, Loss: 0.0262, Test: 0.6493
+2022-11-07 23:56:00.288 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6472
+2022-11-07 23:56:00.288 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9910
+2022-11-07 23:56:00.288 | INFO     | __main__:<module>:85 - Epoch 347, Loss: 0.0259, Test: 0.6472
+2022-11-07 23:57:02.492 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6371
+2022-11-07 23:57:02.493 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9895
+2022-11-07 23:57:02.493 | INFO     | __main__:<module>:85 - Epoch 348, Loss: 0.0304, Test: 0.6371
+2022-11-07 23:58:04.737 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6432
+2022-11-07 23:58:04.737 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9869
+2022-11-07 23:58:04.738 | INFO     | __main__:<module>:85 - Epoch 349, Loss: 0.0337, Test: 0.6432
+2022-11-07 23:59:06.985 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6624
+2022-11-07 23:59:06.985 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9890
+2022-11-07 23:59:06.986 | INFO     | __main__:<module>:85 - Epoch 350, Loss: 0.0319, Test: 0.6624
+2022-11-08 00:00:09.260 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6690
+2022-11-08 00:00:09.260 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9898
+2022-11-08 00:00:09.261 | INFO     | __main__:<module>:85 - Epoch 351, Loss: 0.0315, Test: 0.6690
+2022-11-08 00:01:11.558 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6242
+2022-11-08 00:01:11.558 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9915
+2022-11-08 00:01:11.558 | INFO     | __main__:<module>:85 - Epoch 352, Loss: 0.0253, Test: 0.6242
+2022-11-08 00:02:13.791 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6585
+2022-11-08 00:02:13.792 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9879
+2022-11-08 00:02:13.792 | INFO     | __main__:<module>:85 - Epoch 353, Loss: 0.0336, Test: 0.6585
+2022-11-08 00:03:15.945 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6746
+2022-11-08 00:03:15.945 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-08 00:03:15.945 | INFO     | __main__:<module>:85 - Epoch 354, Loss: 0.0282, Test: 0.6746
+2022-11-08 00:04:18.225 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6577
+2022-11-08 00:04:18.226 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-08 00:04:18.226 | INFO     | __main__:<module>:85 - Epoch 355, Loss: 0.0298, Test: 0.6577
+2022-11-08 00:05:20.467 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6545
+2022-11-08 00:05:20.467 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9892
+2022-11-08 00:05:20.468 | INFO     | __main__:<module>:85 - Epoch 356, Loss: 0.0298, Test: 0.6545
+2022-11-08 00:06:22.706 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6466
+2022-11-08 00:06:22.706 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9892
+2022-11-08 00:06:22.706 | INFO     | __main__:<module>:85 - Epoch 357, Loss: 0.0303, Test: 0.6466
+2022-11-08 00:07:24.896 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6429
+2022-11-08 00:07:24.897 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9893
+2022-11-08 00:07:24.897 | INFO     | __main__:<module>:85 - Epoch 358, Loss: 0.0304, Test: 0.6429
+2022-11-08 00:08:27.077 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6693
+2022-11-08 00:08:27.077 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9912
+2022-11-08 00:08:27.078 | INFO     | __main__:<module>:85 - Epoch 359, Loss: 0.0264, Test: 0.6693
+2022-11-08 00:09:29.248 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6572
+2022-11-08 00:09:29.249 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9917
+2022-11-08 00:09:29.249 | INFO     | __main__:<module>:85 - Epoch 360, Loss: 0.0256, Test: 0.6572
+2022-11-08 00:10:31.432 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6487
+2022-11-08 00:10:31.433 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9895
+2022-11-08 00:10:31.433 | INFO     | __main__:<module>:85 - Epoch 361, Loss: 0.0313, Test: 0.6487
+2022-11-08 00:11:33.646 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6511
+2022-11-08 00:11:33.646 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9912
+2022-11-08 00:11:33.646 | INFO     | __main__:<module>:85 - Epoch 362, Loss: 0.0271, Test: 0.6511
+2022-11-08 00:12:35.847 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6614
+2022-11-08 00:12:35.847 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9883
+2022-11-08 00:12:35.848 | INFO     | __main__:<module>:85 - Epoch 363, Loss: 0.0344, Test: 0.6614
+2022-11-08 00:13:38.122 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6511
+2022-11-08 00:13:38.122 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9925
+2022-11-08 00:13:38.123 | INFO     | __main__:<module>:85 - Epoch 364, Loss: 0.0192, Test: 0.6511
+2022-11-08 00:14:40.330 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6535
+2022-11-08 00:14:40.330 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9895
+2022-11-08 00:14:40.330 | INFO     | __main__:<module>:85 - Epoch 365, Loss: 0.0290, Test: 0.6535
+2022-11-08 00:15:42.568 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6535
+2022-11-08 00:15:42.569 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9900
+2022-11-08 00:15:42.569 | INFO     | __main__:<module>:85 - Epoch 366, Loss: 0.0270, Test: 0.6535
+2022-11-08 00:16:44.746 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6588
+2022-11-08 00:16:44.746 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9871
+2022-11-08 00:16:44.747 | INFO     | __main__:<module>:85 - Epoch 367, Loss: 0.0328, Test: 0.6588
+2022-11-08 00:17:46.965 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6664
+2022-11-08 00:17:46.966 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9889
+2022-11-08 00:17:46.966 | INFO     | __main__:<module>:85 - Epoch 368, Loss: 0.0324, Test: 0.6664
+2022-11-08 00:18:49.178 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6614
+2022-11-08 00:18:49.178 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9914
+2022-11-08 00:18:49.179 | INFO     | __main__:<module>:85 - Epoch 369, Loss: 0.0248, Test: 0.6614
+2022-11-08 00:19:51.318 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6503
+2022-11-08 00:19:51.318 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9900
+2022-11-08 00:19:51.318 | INFO     | __main__:<module>:85 - Epoch 370, Loss: 0.0298, Test: 0.6503
+2022-11-08 00:20:53.491 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6498
+2022-11-08 00:20:53.491 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9894
+2022-11-08 00:20:53.491 | INFO     | __main__:<module>:85 - Epoch 371, Loss: 0.0313, Test: 0.6498
+2022-11-08 00:21:55.661 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6242
+2022-11-08 00:21:55.662 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9911
+2022-11-08 00:21:55.662 | INFO     | __main__:<module>:85 - Epoch 372, Loss: 0.0240, Test: 0.6242
+2022-11-08 00:22:57.854 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6432
+2022-11-08 00:22:57.855 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9893
+2022-11-08 00:22:57.855 | INFO     | __main__:<module>:85 - Epoch 373, Loss: 0.0321, Test: 0.6432
+2022-11-08 00:24:00.098 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6593
+2022-11-08 00:24:00.099 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9918
+2022-11-08 00:24:00.099 | INFO     | __main__:<module>:85 - Epoch 374, Loss: 0.0248, Test: 0.6593
+2022-11-08 00:25:02.302 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6648
+2022-11-08 00:25:02.302 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9915
+2022-11-08 00:25:02.303 | INFO     | __main__:<module>:85 - Epoch 375, Loss: 0.0254, Test: 0.6648
+2022-11-08 00:26:04.573 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6693
+2022-11-08 00:26:04.574 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9902
+2022-11-08 00:26:04.574 | INFO     | __main__:<module>:85 - Epoch 376, Loss: 0.0286, Test: 0.6693
+2022-11-08 00:27:06.810 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6545
+2022-11-08 00:27:06.810 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9902
+2022-11-08 00:27:06.810 | INFO     | __main__:<module>:85 - Epoch 377, Loss: 0.0279, Test: 0.6545
+2022-11-08 00:28:08.965 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6551
+2022-11-08 00:28:08.966 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9896
+2022-11-08 00:28:08.966 | INFO     | __main__:<module>:85 - Epoch 378, Loss: 0.0308, Test: 0.6551
+2022-11-08 00:29:11.111 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6572
+2022-11-08 00:29:11.112 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9910
+2022-11-08 00:29:11.112 | INFO     | __main__:<module>:85 - Epoch 379, Loss: 0.0275, Test: 0.6572
+2022-11-08 00:30:13.368 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6450
+2022-11-08 00:30:13.369 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9914
+2022-11-08 00:30:13.369 | INFO     | __main__:<module>:85 - Epoch 380, Loss: 0.0253, Test: 0.6450
+2022-11-08 00:31:15.638 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6432
+2022-11-08 00:31:15.638 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9868
+2022-11-08 00:31:15.638 | INFO     | __main__:<module>:85 - Epoch 381, Loss: 0.0375, Test: 0.6432
+2022-11-08 00:32:17.849 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6603
+2022-11-08 00:32:17.849 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9914
+2022-11-08 00:32:17.849 | INFO     | __main__:<module>:85 - Epoch 382, Loss: 0.0258, Test: 0.6603
+2022-11-08 00:33:20.024 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6435
+2022-11-08 00:33:20.025 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9931
+2022-11-08 00:33:20.025 | INFO     | __main__:<module>:85 - Epoch 383, Loss: 0.0203, Test: 0.6435
+2022-11-08 00:34:22.232 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6611
+2022-11-08 00:34:22.232 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9914
+2022-11-08 00:34:22.232 | INFO     | __main__:<module>:85 - Epoch 384, Loss: 0.0252, Test: 0.6611
+2022-11-08 00:35:24.465 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6464
+2022-11-08 00:35:24.465 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-08 00:35:24.465 | INFO     | __main__:<module>:85 - Epoch 385, Loss: 0.0280, Test: 0.6464
+2022-11-08 00:36:26.657 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6569
+2022-11-08 00:36:26.657 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9878
+2022-11-08 00:36:26.657 | INFO     | __main__:<module>:85 - Epoch 386, Loss: 0.0328, Test: 0.6569
+2022-11-08 00:37:28.882 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6648
+2022-11-08 00:37:28.882 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9908
+2022-11-08 00:37:28.882 | INFO     | __main__:<module>:85 - Epoch 387, Loss: 0.0260, Test: 0.6648
+2022-11-08 00:38:31.126 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6479
+2022-11-08 00:38:31.127 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9918
+2022-11-08 00:38:31.127 | INFO     | __main__:<module>:85 - Epoch 388, Loss: 0.0261, Test: 0.6479
+2022-11-08 00:39:33.361 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6387
+2022-11-08 00:39:33.361 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9919
+2022-11-08 00:39:33.362 | INFO     | __main__:<module>:85 - Epoch 389, Loss: 0.0265, Test: 0.6387
+2022-11-08 00:40:35.620 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6556
+2022-11-08 00:40:35.621 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9908
+2022-11-08 00:40:35.621 | INFO     | __main__:<module>:85 - Epoch 390, Loss: 0.0292, Test: 0.6556
+2022-11-08 00:41:37.860 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6648
+2022-11-08 00:41:37.860 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9904
+2022-11-08 00:41:37.860 | INFO     | __main__:<module>:85 - Epoch 391, Loss: 0.0284, Test: 0.6648
+2022-11-08 00:42:40.032 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6511
+2022-11-08 00:42:40.033 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9898
+2022-11-08 00:42:40.033 | INFO     | __main__:<module>:85 - Epoch 392, Loss: 0.0300, Test: 0.6511
+2022-11-08 00:43:42.243 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6519
+2022-11-08 00:43:42.243 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9917
+2022-11-08 00:43:42.244 | INFO     | __main__:<module>:85 - Epoch 393, Loss: 0.0257, Test: 0.6519
+2022-11-08 00:44:44.454 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6543
+2022-11-08 00:44:44.454 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-08 00:44:44.455 | INFO     | __main__:<module>:85 - Epoch 394, Loss: 0.0262, Test: 0.6543
+2022-11-08 00:45:46.726 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6503
+2022-11-08 00:45:46.726 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-08 00:45:46.726 | INFO     | __main__:<module>:85 - Epoch 395, Loss: 0.0236, Test: 0.6503
+2022-11-08 00:46:48.965 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6622
+2022-11-08 00:46:48.965 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-08 00:46:48.965 | INFO     | __main__:<module>:85 - Epoch 396, Loss: 0.0295, Test: 0.6622
+2022-11-08 00:47:51.114 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6516
+2022-11-08 00:47:51.114 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9893
+2022-11-08 00:47:51.115 | INFO     | __main__:<module>:85 - Epoch 397, Loss: 0.0303, Test: 0.6516
+2022-11-08 00:48:53.241 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6574
+2022-11-08 00:48:53.241 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9890
+2022-11-08 00:48:53.242 | INFO     | __main__:<module>:85 - Epoch 398, Loss: 0.0294, Test: 0.6574
+2022-11-08 00:49:55.351 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6411
+2022-11-08 00:49:55.352 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-08 00:49:55.352 | INFO     | __main__:<module>:85 - Epoch 399, Loss: 0.0236, Test: 0.6411
+2022-11-08 00:50:57.592 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6561
+2022-11-08 00:50:57.592 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9927
+2022-11-08 00:50:57.593 | INFO     | __main__:<module>:85 - Epoch 400, Loss: 0.0205, Test: 0.6561
+2022-11-08 00:51:59.756 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6498
+2022-11-08 00:51:59.757 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9910
+2022-11-08 00:51:59.757 | INFO     | __main__:<module>:85 - Epoch 401, Loss: 0.0256, Test: 0.6498
+2022-11-08 00:53:01.989 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6559
+2022-11-08 00:53:01.989 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9900
+2022-11-08 00:53:01.989 | INFO     | __main__:<module>:85 - Epoch 402, Loss: 0.0318, Test: 0.6559
+2022-11-08 00:54:04.183 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6556
+2022-11-08 00:54:04.184 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9888
+2022-11-08 00:54:04.184 | INFO     | __main__:<module>:85 - Epoch 403, Loss: 0.0346, Test: 0.6556
+2022-11-08 00:55:06.460 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6501
+2022-11-08 00:55:06.461 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-08 00:55:06.461 | INFO     | __main__:<module>:85 - Epoch 404, Loss: 0.0226, Test: 0.6501
+2022-11-08 00:56:08.611 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6595
+2022-11-08 00:56:08.611 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9923
+2022-11-08 00:56:08.612 | INFO     | __main__:<module>:85 - Epoch 405, Loss: 0.0216, Test: 0.6595
+2022-11-08 00:57:10.835 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6358
+2022-11-08 00:57:10.835 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9915
+2022-11-08 00:57:10.836 | INFO     | __main__:<module>:85 - Epoch 406, Loss: 0.0246, Test: 0.6358
+2022-11-08 00:58:13.003 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6559
+2022-11-08 00:58:13.003 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-08 00:58:13.004 | INFO     | __main__:<module>:85 - Epoch 407, Loss: 0.0268, Test: 0.6559
+2022-11-08 00:59:15.220 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6598
+2022-11-08 00:59:15.220 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9902
+2022-11-08 00:59:15.220 | INFO     | __main__:<module>:85 - Epoch 408, Loss: 0.0307, Test: 0.6598
+2022-11-08 01:00:17.441 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6569
+2022-11-08 01:00:17.442 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9918
+2022-11-08 01:00:17.442 | INFO     | __main__:<module>:85 - Epoch 409, Loss: 0.0239, Test: 0.6569
+2022-11-08 01:01:19.644 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6643
+2022-11-08 01:01:19.644 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9918
+2022-11-08 01:01:19.645 | INFO     | __main__:<module>:85 - Epoch 410, Loss: 0.0251, Test: 0.6643
+2022-11-08 01:02:21.866 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6545
+2022-11-08 01:02:21.867 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9902
+2022-11-08 01:02:21.867 | INFO     | __main__:<module>:85 - Epoch 411, Loss: 0.0262, Test: 0.6545
+2022-11-08 01:03:24.012 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6672
+2022-11-08 01:03:24.013 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9900
+2022-11-08 01:03:24.013 | INFO     | __main__:<module>:85 - Epoch 412, Loss: 0.0300, Test: 0.6672
+2022-11-08 01:04:26.148 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6630
+2022-11-08 01:04:26.148 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9912
+2022-11-08 01:04:26.148 | INFO     | __main__:<module>:85 - Epoch 413, Loss: 0.0278, Test: 0.6630
+2022-11-08 01:05:28.361 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6748
+2022-11-08 01:05:28.361 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9899
+2022-11-08 01:05:28.362 | INFO     | __main__:<module>:85 - Epoch 414, Loss: 0.0280, Test: 0.6748
+2022-11-08 01:06:30.581 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6590
+2022-11-08 01:06:30.581 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9910
+2022-11-08 01:06:30.581 | INFO     | __main__:<module>:85 - Epoch 415, Loss: 0.0268, Test: 0.6590
+2022-11-08 01:07:32.830 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6574
+2022-11-08 01:07:32.831 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9900
+2022-11-08 01:07:32.831 | INFO     | __main__:<module>:85 - Epoch 416, Loss: 0.0299, Test: 0.6574
+2022-11-08 01:08:35.075 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6630
+2022-11-08 01:08:35.076 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9895
+2022-11-08 01:08:35.076 | INFO     | __main__:<module>:85 - Epoch 417, Loss: 0.0296, Test: 0.6630
+2022-11-08 01:09:37.365 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6561
+2022-11-08 01:09:37.365 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9893
+2022-11-08 01:09:37.365 | INFO     | __main__:<module>:85 - Epoch 418, Loss: 0.0311, Test: 0.6561
+2022-11-08 01:10:39.576 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6617
+2022-11-08 01:10:39.576 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9912
+2022-11-08 01:10:39.577 | INFO     | __main__:<module>:85 - Epoch 419, Loss: 0.0242, Test: 0.6617
+2022-11-08 01:11:41.815 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6524
+2022-11-08 01:11:41.815 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-08 01:11:41.815 | INFO     | __main__:<module>:85 - Epoch 420, Loss: 0.0249, Test: 0.6524
+2022-11-08 01:12:44.063 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6561
+2022-11-08 01:12:44.064 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9916
+2022-11-08 01:12:44.064 | INFO     | __main__:<module>:85 - Epoch 421, Loss: 0.0274, Test: 0.6561
+2022-11-08 01:13:46.294 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6593
+2022-11-08 01:13:46.294 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9923
+2022-11-08 01:13:46.294 | INFO     | __main__:<module>:85 - Epoch 422, Loss: 0.0231, Test: 0.6593
+2022-11-08 01:14:48.437 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6606
+2022-11-08 01:14:48.438 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9907
+2022-11-08 01:14:48.438 | INFO     | __main__:<module>:85 - Epoch 423, Loss: 0.0292, Test: 0.6606
+2022-11-08 01:15:50.628 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6577
+2022-11-08 01:15:50.629 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9899
+2022-11-08 01:15:50.629 | INFO     | __main__:<module>:85 - Epoch 424, Loss: 0.0283, Test: 0.6577
+2022-11-08 01:16:52.905 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6458
+2022-11-08 01:16:52.906 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9920
+2022-11-08 01:16:52.906 | INFO     | __main__:<module>:85 - Epoch 425, Loss: 0.0224, Test: 0.6458
+2022-11-08 01:17:55.114 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6669
+2022-11-08 01:17:55.114 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9917
+2022-11-08 01:17:55.114 | INFO     | __main__:<module>:85 - Epoch 426, Loss: 0.0247, Test: 0.6669
+2022-11-08 01:18:57.359 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6458
+2022-11-08 01:18:57.359 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9920
+2022-11-08 01:18:57.359 | INFO     | __main__:<module>:85 - Epoch 427, Loss: 0.0236, Test: 0.6458
+2022-11-08 01:19:59.630 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6606
+2022-11-08 01:19:59.630 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9895
+2022-11-08 01:19:59.630 | INFO     | __main__:<module>:85 - Epoch 428, Loss: 0.0307, Test: 0.6606
+2022-11-08 01:21:01.865 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6551
+2022-11-08 01:21:01.865 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9909
+2022-11-08 01:21:01.865 | INFO     | __main__:<module>:85 - Epoch 429, Loss: 0.0263, Test: 0.6551
+2022-11-08 01:22:04.075 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6619
+2022-11-08 01:22:04.076 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9927
+2022-11-08 01:22:04.076 | INFO     | __main__:<module>:85 - Epoch 430, Loss: 0.0216, Test: 0.6619
+2022-11-08 01:23:06.296 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6561
+2022-11-08 01:23:06.296 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9915
+2022-11-08 01:23:06.297 | INFO     | __main__:<module>:85 - Epoch 431, Loss: 0.0247, Test: 0.6561
+2022-11-08 01:24:08.498 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6435
+2022-11-08 01:24:08.498 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9881
+2022-11-08 01:24:08.498 | INFO     | __main__:<module>:85 - Epoch 432, Loss: 0.0372, Test: 0.6435
+2022-11-08 01:25:10.737 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6588
+2022-11-08 01:25:10.738 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9932
+2022-11-08 01:25:10.738 | INFO     | __main__:<module>:85 - Epoch 433, Loss: 0.0192, Test: 0.6588
+2022-11-08 01:26:12.907 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6606
+2022-11-08 01:26:12.907 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9910
+2022-11-08 01:26:12.908 | INFO     | __main__:<module>:85 - Epoch 434, Loss: 0.0264, Test: 0.6606
+2022-11-08 01:27:14.985 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6469
+2022-11-08 01:27:14.985 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9918
+2022-11-08 01:27:14.985 | INFO     | __main__:<module>:85 - Epoch 435, Loss: 0.0258, Test: 0.6469
+2022-11-08 01:28:17.167 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6624
+2022-11-08 01:28:17.168 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-08 01:28:17.168 | INFO     | __main__:<module>:85 - Epoch 436, Loss: 0.0228, Test: 0.6624
+2022-11-08 01:29:19.397 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6566
+2022-11-08 01:29:19.398 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9890
+2022-11-08 01:29:19.398 | INFO     | __main__:<module>:85 - Epoch 437, Loss: 0.0328, Test: 0.6566
+2022-11-08 01:30:21.655 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6632
+2022-11-08 01:30:21.656 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9929
+2022-11-08 01:30:21.656 | INFO     | __main__:<module>:85 - Epoch 438, Loss: 0.0212, Test: 0.6632
+2022-11-08 01:31:23.783 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6564
+2022-11-08 01:31:23.783 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9900
+2022-11-08 01:31:23.784 | INFO     | __main__:<module>:85 - Epoch 439, Loss: 0.0277, Test: 0.6564
+2022-11-08 01:32:25.942 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6588
+2022-11-08 01:32:25.942 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9910
+2022-11-08 01:32:25.943 | INFO     | __main__:<module>:85 - Epoch 440, Loss: 0.0260, Test: 0.6588
+2022-11-08 01:33:28.195 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6593
+2022-11-08 01:33:28.196 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9905
+2022-11-08 01:33:28.196 | INFO     | __main__:<module>:85 - Epoch 441, Loss: 0.0259, Test: 0.6593
+2022-11-08 01:34:30.425 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6677
+2022-11-08 01:34:30.425 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-08 01:34:30.426 | INFO     | __main__:<module>:85 - Epoch 442, Loss: 0.0230, Test: 0.6677
+2022-11-08 01:35:32.573 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6656
+2022-11-08 01:35:32.574 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9903
+2022-11-08 01:35:32.574 | INFO     | __main__:<module>:85 - Epoch 443, Loss: 0.0286, Test: 0.6656
+2022-11-08 01:36:34.763 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6661
+2022-11-08 01:36:34.764 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9899
+2022-11-08 01:36:34.764 | INFO     | __main__:<module>:85 - Epoch 444, Loss: 0.0298, Test: 0.6661
+2022-11-08 01:37:36.981 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6493
+2022-11-08 01:37:36.981 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9910
+2022-11-08 01:37:36.982 | INFO     | __main__:<module>:85 - Epoch 445, Loss: 0.0250, Test: 0.6493
+2022-11-08 01:38:39.200 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6635
+2022-11-08 01:38:39.200 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9908
+2022-11-08 01:38:39.200 | INFO     | __main__:<module>:85 - Epoch 446, Loss: 0.0269, Test: 0.6635
+2022-11-08 01:39:41.319 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6685
+2022-11-08 01:39:41.320 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-08 01:39:41.320 | INFO     | __main__:<module>:85 - Epoch 447, Loss: 0.0213, Test: 0.6685
+2022-11-08 01:40:43.507 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6656
+2022-11-08 01:40:43.508 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-08 01:40:43.508 | INFO     | __main__:<module>:85 - Epoch 448, Loss: 0.0251, Test: 0.6656
+2022-11-08 01:41:45.711 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6656
+2022-11-08 01:41:45.711 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-08 01:41:45.711 | INFO     | __main__:<module>:85 - Epoch 449, Loss: 0.0245, Test: 0.6656
+2022-11-08 01:42:47.958 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6553
+2022-11-08 01:42:47.958 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9911
+2022-11-08 01:42:47.958 | INFO     | __main__:<module>:85 - Epoch 450, Loss: 0.0257, Test: 0.6553
+2022-11-08 01:43:50.146 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6524
+2022-11-08 01:43:50.146 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9907
+2022-11-08 01:43:50.147 | INFO     | __main__:<module>:85 - Epoch 451, Loss: 0.0267, Test: 0.6524
+2022-11-08 01:44:52.346 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6659
+2022-11-08 01:44:52.346 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9885
+2022-11-08 01:44:52.346 | INFO     | __main__:<module>:85 - Epoch 452, Loss: 0.0324, Test: 0.6659
+2022-11-08 01:45:54.532 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6501
+2022-11-08 01:45:54.533 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9941
+2022-11-08 01:45:54.533 | INFO     | __main__:<module>:85 - Epoch 453, Loss: 0.0177, Test: 0.6501
+2022-11-08 01:46:56.723 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6532
+2022-11-08 01:46:56.724 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9893
+2022-11-08 01:46:56.724 | INFO     | __main__:<module>:85 - Epoch 454, Loss: 0.0306, Test: 0.6532
+2022-11-08 01:47:58.963 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6408
+2022-11-08 01:47:58.963 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-08 01:47:58.963 | INFO     | __main__:<module>:85 - Epoch 455, Loss: 0.0229, Test: 0.6408
+2022-11-08 01:49:01.187 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6603
+2022-11-08 01:49:01.187 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9914
+2022-11-08 01:49:01.187 | INFO     | __main__:<module>:85 - Epoch 456, Loss: 0.0286, Test: 0.6603
+2022-11-08 01:50:03.413 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6516
+2022-11-08 01:50:03.413 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9916
+2022-11-08 01:50:03.414 | INFO     | __main__:<module>:85 - Epoch 457, Loss: 0.0254, Test: 0.6516
+2022-11-08 01:51:05.618 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6595
+2022-11-08 01:51:05.618 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-08 01:51:05.618 | INFO     | __main__:<module>:85 - Epoch 458, Loss: 0.0261, Test: 0.6595
+2022-11-08 01:52:07.721 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6598
+2022-11-08 01:52:07.722 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9912
+2022-11-08 01:52:07.722 | INFO     | __main__:<module>:85 - Epoch 459, Loss: 0.0303, Test: 0.6598
+2022-11-08 01:53:09.886 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6564
+2022-11-08 01:53:09.886 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9930
+2022-11-08 01:53:09.887 | INFO     | __main__:<module>:85 - Epoch 460, Loss: 0.0222, Test: 0.6564
+2022-11-08 01:54:12.006 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6725
+2022-11-08 01:54:12.007 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9933
+2022-11-08 01:54:12.007 | INFO     | __main__:<module>:85 - Epoch 461, Loss: 0.0209, Test: 0.6725
+2022-11-08 01:55:14.460 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6453
+2022-11-08 01:55:14.460 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9923
+2022-11-08 01:55:14.460 | INFO     | __main__:<module>:85 - Epoch 462, Loss: 0.0212, Test: 0.6453
+2022-11-08 01:56:16.755 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6653
+2022-11-08 01:56:16.756 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9875
+2022-11-08 01:56:16.756 | INFO     | __main__:<module>:85 - Epoch 463, Loss: 0.0343, Test: 0.6653
+2022-11-08 01:57:18.939 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6543
+2022-11-08 01:57:18.939 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9932
+2022-11-08 01:57:18.940 | INFO     | __main__:<module>:85 - Epoch 464, Loss: 0.0207, Test: 0.6543
+2022-11-08 01:58:21.113 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6603
+2022-11-08 01:58:21.114 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9935
+2022-11-08 01:58:21.114 | INFO     | __main__:<module>:85 - Epoch 465, Loss: 0.0206, Test: 0.6603
+2022-11-08 01:59:23.349 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6622
+2022-11-08 01:59:23.350 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9909
+2022-11-08 01:59:23.350 | INFO     | __main__:<module>:85 - Epoch 466, Loss: 0.0255, Test: 0.6622
+2022-11-08 02:00:25.547 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6664
+2022-11-08 02:00:25.547 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9883
+2022-11-08 02:00:25.547 | INFO     | __main__:<module>:85 - Epoch 467, Loss: 0.0344, Test: 0.6664
+2022-11-08 02:01:27.776 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6646
+2022-11-08 02:01:27.776 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9929
+2022-11-08 02:01:27.776 | INFO     | __main__:<module>:85 - Epoch 468, Loss: 0.0222, Test: 0.6646
+2022-11-08 02:02:29.941 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6524
+2022-11-08 02:02:29.941 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9929
+2022-11-08 02:02:29.941 | INFO     | __main__:<module>:85 - Epoch 469, Loss: 0.0196, Test: 0.6524
+2022-11-08 02:03:32.105 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6577
+2022-11-08 02:03:32.106 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9902
+2022-11-08 02:03:32.106 | INFO     | __main__:<module>:85 - Epoch 470, Loss: 0.0300, Test: 0.6577
+2022-11-08 02:04:34.206 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6501
+2022-11-08 02:04:34.206 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9923
+2022-11-08 02:04:34.207 | INFO     | __main__:<module>:85 - Epoch 471, Loss: 0.0221, Test: 0.6501
+2022-11-08 02:05:36.415 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6577
+2022-11-08 02:05:36.416 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9891
+2022-11-08 02:05:36.416 | INFO     | __main__:<module>:85 - Epoch 472, Loss: 0.0285, Test: 0.6577
+2022-11-08 02:06:38.660 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6653
+2022-11-08 02:06:38.660 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9916
+2022-11-08 02:06:38.660 | INFO     | __main__:<module>:85 - Epoch 473, Loss: 0.0216, Test: 0.6653
+2022-11-08 02:07:40.806 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6419
+2022-11-08 02:07:40.806 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9912
+2022-11-08 02:07:40.807 | INFO     | __main__:<module>:85 - Epoch 474, Loss: 0.0245, Test: 0.6419
+2022-11-08 02:08:42.988 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6427
+2022-11-08 02:08:42.988 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9933
+2022-11-08 02:08:42.988 | INFO     | __main__:<module>:85 - Epoch 475, Loss: 0.0192, Test: 0.6427
+2022-11-08 02:09:45.211 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6635
+2022-11-08 02:09:45.211 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9890
+2022-11-08 02:09:45.211 | INFO     | __main__:<module>:85 - Epoch 476, Loss: 0.0325, Test: 0.6635
+2022-11-08 02:10:47.362 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6540
+2022-11-08 02:10:47.362 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9925
+2022-11-08 02:10:47.362 | INFO     | __main__:<module>:85 - Epoch 477, Loss: 0.0212, Test: 0.6540
+2022-11-08 02:11:49.570 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6741
+2022-11-08 02:11:49.570 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9889
+2022-11-08 02:11:49.570 | INFO     | __main__:<module>:85 - Epoch 478, Loss: 0.0363, Test: 0.6741
+2022-11-08 02:12:51.978 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6537
+2022-11-08 02:12:51.979 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9925
+2022-11-08 02:12:51.979 | INFO     | __main__:<module>:85 - Epoch 479, Loss: 0.0236, Test: 0.6537
+2022-11-08 02:13:54.406 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6617
+2022-11-08 02:13:54.407 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9923
+2022-11-08 02:13:54.407 | INFO     | __main__:<module>:85 - Epoch 480, Loss: 0.0219, Test: 0.6617
+2022-11-08 02:14:56.580 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6556
+2022-11-08 02:14:56.580 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-08 02:14:56.580 | INFO     | __main__:<module>:85 - Epoch 481, Loss: 0.0228, Test: 0.6556
+2022-11-08 02:15:58.819 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6580
+2022-11-08 02:15:58.819 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9914
+2022-11-08 02:15:58.819 | INFO     | __main__:<module>:85 - Epoch 482, Loss: 0.0252, Test: 0.6580
+2022-11-08 02:17:01.013 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6543
+2022-11-08 02:17:01.014 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9933
+2022-11-08 02:17:01.014 | INFO     | __main__:<module>:85 - Epoch 483, Loss: 0.0205, Test: 0.6543
+2022-11-08 02:18:03.200 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6582
+2022-11-08 02:18:03.200 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9925
+2022-11-08 02:18:03.201 | INFO     | __main__:<module>:85 - Epoch 484, Loss: 0.0234, Test: 0.6582
+2022-11-08 02:19:05.375 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6672
+2022-11-08 02:19:05.375 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9903
+2022-11-08 02:19:05.375 | INFO     | __main__:<module>:85 - Epoch 485, Loss: 0.0269, Test: 0.6672
+2022-11-08 02:20:07.577 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6545
+2022-11-08 02:20:07.577 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9929
+2022-11-08 02:20:07.577 | INFO     | __main__:<module>:85 - Epoch 486, Loss: 0.0218, Test: 0.6545
+2022-11-08 02:21:09.793 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6516
+2022-11-08 02:21:09.793 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9911
+2022-11-08 02:21:09.794 | INFO     | __main__:<module>:85 - Epoch 487, Loss: 0.0276, Test: 0.6516
+2022-11-08 02:22:11.983 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6709
+2022-11-08 02:22:11.984 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9917
+2022-11-08 02:22:11.984 | INFO     | __main__:<module>:85 - Epoch 488, Loss: 0.0237, Test: 0.6709
+2022-11-08 02:23:14.252 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6574
+2022-11-08 02:23:14.252 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9932
+2022-11-08 02:23:14.253 | INFO     | __main__:<module>:85 - Epoch 489, Loss: 0.0197, Test: 0.6574
+2022-11-08 02:24:16.521 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6535
+2022-11-08 02:24:16.522 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9912
+2022-11-08 02:24:16.522 | INFO     | __main__:<module>:85 - Epoch 490, Loss: 0.0257, Test: 0.6535
+2022-11-08 02:25:18.772 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6630
+2022-11-08 02:25:18.772 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-08 02:25:18.772 | INFO     | __main__:<module>:85 - Epoch 491, Loss: 0.0239, Test: 0.6630
+2022-11-08 02:26:21.252 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6316
+2022-11-08 02:26:21.252 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9891
+2022-11-08 02:26:21.253 | INFO     | __main__:<module>:85 - Epoch 492, Loss: 0.0308, Test: 0.6316
+2022-11-08 02:27:23.582 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6632
+2022-11-08 02:27:23.583 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-08 02:27:23.583 | INFO     | __main__:<module>:85 - Epoch 493, Loss: 0.0244, Test: 0.6632
+2022-11-08 02:28:25.888 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6477
+2022-11-08 02:28:25.888 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9929
+2022-11-08 02:28:25.888 | INFO     | __main__:<module>:85 - Epoch 494, Loss: 0.0215, Test: 0.6477
+2022-11-08 02:29:28.174 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6664
+2022-11-08 02:29:28.174 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9915
+2022-11-08 02:29:28.174 | INFO     | __main__:<module>:85 - Epoch 495, Loss: 0.0246, Test: 0.6664
+2022-11-08 02:30:30.449 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6326
+2022-11-08 02:30:30.450 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9916
+2022-11-08 02:30:30.450 | INFO     | __main__:<module>:85 - Epoch 496, Loss: 0.0242, Test: 0.6326
+2022-11-08 02:31:32.672 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6532
+2022-11-08 02:31:32.672 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9891
+2022-11-08 02:31:32.673 | INFO     | __main__:<module>:85 - Epoch 497, Loss: 0.0299, Test: 0.6532
+2022-11-08 02:32:34.902 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6530
+2022-11-08 02:32:34.902 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9931
+2022-11-08 02:32:34.903 | INFO     | __main__:<module>:85 - Epoch 498, Loss: 0.0222, Test: 0.6530
+2022-11-08 02:33:37.120 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6569
+2022-11-08 02:33:37.120 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9929
+2022-11-08 02:33:37.121 | INFO     | __main__:<module>:85 - Epoch 499, Loss: 0.0217, Test: 0.6569
+2022-11-08 02:34:39.332 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6390
+2022-11-08 02:34:39.333 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-08 02:34:39.333 | INFO     | __main__:<module>:85 - Epoch 500, Loss: 0.0214, Test: 0.6390
+2022-11-08 02:35:41.520 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6530
+2022-11-08 02:35:41.520 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9896
+2022-11-08 02:35:41.520 | INFO     | __main__:<module>:85 - Epoch 501, Loss: 0.0329, Test: 0.6530
+2022-11-08 02:36:43.785 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6532
+2022-11-08 02:36:43.785 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9918
+2022-11-08 02:36:43.785 | INFO     | __main__:<module>:85 - Epoch 502, Loss: 0.0234, Test: 0.6532
+2022-11-08 02:37:45.987 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6648
+2022-11-08 02:37:45.988 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9910
+2022-11-08 02:37:45.988 | INFO     | __main__:<module>:85 - Epoch 503, Loss: 0.0261, Test: 0.6648
+2022-11-08 02:38:48.204 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6624
+2022-11-08 02:38:48.205 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9925
+2022-11-08 02:38:48.205 | INFO     | __main__:<module>:85 - Epoch 504, Loss: 0.0220, Test: 0.6624
+2022-11-08 02:39:50.471 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6656
+2022-11-08 02:39:50.472 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9916
+2022-11-08 02:39:50.472 | INFO     | __main__:<module>:85 - Epoch 505, Loss: 0.0241, Test: 0.6656
+2022-11-08 02:40:52.787 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6574
+2022-11-08 02:40:52.788 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9927
+2022-11-08 02:40:52.788 | INFO     | __main__:<module>:85 - Epoch 506, Loss: 0.0222, Test: 0.6574
+2022-11-08 02:41:55.008 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6516
+2022-11-08 02:41:55.008 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9914
+2022-11-08 02:41:55.008 | INFO     | __main__:<module>:85 - Epoch 507, Loss: 0.0282, Test: 0.6516
+2022-11-08 02:42:57.214 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6696
+2022-11-08 02:42:57.215 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-08 02:42:57.215 | INFO     | __main__:<module>:85 - Epoch 508, Loss: 0.0242, Test: 0.6696
+2022-11-08 02:43:59.520 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6646
+2022-11-08 02:43:59.521 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9914
+2022-11-08 02:43:59.521 | INFO     | __main__:<module>:85 - Epoch 509, Loss: 0.0225, Test: 0.6646
+2022-11-08 02:45:01.798 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6611
+2022-11-08 02:45:01.798 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9911
+2022-11-08 02:45:01.799 | INFO     | __main__:<module>:85 - Epoch 510, Loss: 0.0261, Test: 0.6611
+2022-11-08 02:46:04.010 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6682
+2022-11-08 02:46:04.011 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9923
+2022-11-08 02:46:04.011 | INFO     | __main__:<module>:85 - Epoch 511, Loss: 0.0241, Test: 0.6682
+2022-11-08 02:47:06.300 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6698
+2022-11-08 02:47:06.300 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9929
+2022-11-08 02:47:06.301 | INFO     | __main__:<module>:85 - Epoch 512, Loss: 0.0216, Test: 0.6698
+2022-11-08 02:48:08.539 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6593
+2022-11-08 02:48:08.540 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9908
+2022-11-08 02:48:08.540 | INFO     | __main__:<module>:85 - Epoch 513, Loss: 0.0267, Test: 0.6593
+2022-11-08 02:49:10.781 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6537
+2022-11-08 02:49:10.781 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9929
+2022-11-08 02:49:10.781 | INFO     | __main__:<module>:85 - Epoch 514, Loss: 0.0226, Test: 0.6537
+2022-11-08 02:50:12.966 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6653
+2022-11-08 02:50:12.966 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9931
+2022-11-08 02:50:12.966 | INFO     | __main__:<module>:85 - Epoch 515, Loss: 0.0213, Test: 0.6653
+2022-11-08 02:51:15.117 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6530
+2022-11-08 02:51:15.118 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9907
+2022-11-08 02:51:15.118 | INFO     | __main__:<module>:85 - Epoch 516, Loss: 0.0263, Test: 0.6530
+2022-11-08 02:52:17.312 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6714
+2022-11-08 02:52:17.312 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9902
+2022-11-08 02:52:17.312 | INFO     | __main__:<module>:85 - Epoch 517, Loss: 0.0271, Test: 0.6714
+2022-11-08 02:53:19.494 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6669
+2022-11-08 02:53:19.495 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9931
+2022-11-08 02:53:19.495 | INFO     | __main__:<module>:85 - Epoch 518, Loss: 0.0201, Test: 0.6669
+2022-11-08 02:54:21.655 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6448
+2022-11-08 02:54:21.656 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9925
+2022-11-08 02:54:21.656 | INFO     | __main__:<module>:85 - Epoch 519, Loss: 0.0212, Test: 0.6448
+2022-11-08 02:55:23.808 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6566
+2022-11-08 02:55:23.809 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9893
+2022-11-08 02:55:23.809 | INFO     | __main__:<module>:85 - Epoch 520, Loss: 0.0285, Test: 0.6566
+2022-11-08 02:56:25.950 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6551
+2022-11-08 02:56:25.950 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-08 02:56:25.950 | INFO     | __main__:<module>:85 - Epoch 521, Loss: 0.0272, Test: 0.6551
+2022-11-08 02:57:28.091 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6572
+2022-11-08 02:57:28.091 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9938
+2022-11-08 02:57:28.091 | INFO     | __main__:<module>:85 - Epoch 522, Loss: 0.0198, Test: 0.6572
+2022-11-08 02:58:30.287 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6741
+2022-11-08 02:58:30.287 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9915
+2022-11-08 02:58:30.288 | INFO     | __main__:<module>:85 - Epoch 523, Loss: 0.0226, Test: 0.6741
+2022-11-08 02:59:32.487 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6672
+2022-11-08 02:59:32.488 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9927
+2022-11-08 02:59:32.488 | INFO     | __main__:<module>:85 - Epoch 524, Loss: 0.0208, Test: 0.6672
+2022-11-08 03:00:34.661 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6208
+2022-11-08 03:00:34.662 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9919
+2022-11-08 03:00:34.662 | INFO     | __main__:<module>:85 - Epoch 525, Loss: 0.0248, Test: 0.6208
+2022-11-08 03:01:36.821 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6653
+2022-11-08 03:01:36.821 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9902
+2022-11-08 03:01:36.822 | INFO     | __main__:<module>:85 - Epoch 526, Loss: 0.0280, Test: 0.6653
+2022-11-08 03:02:38.989 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6572
+2022-11-08 03:02:38.989 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-08 03:02:38.989 | INFO     | __main__:<module>:85 - Epoch 527, Loss: 0.0240, Test: 0.6572
+2022-11-08 03:03:41.128 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6643
+2022-11-08 03:03:41.129 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9917
+2022-11-08 03:03:41.129 | INFO     | __main__:<module>:85 - Epoch 528, Loss: 0.0219, Test: 0.6643
+2022-11-08 03:04:43.270 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6537
+2022-11-08 03:04:43.271 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-08 03:04:43.271 | INFO     | __main__:<module>:85 - Epoch 529, Loss: 0.0249, Test: 0.6537
+2022-11-08 03:05:46.299 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6556
+2022-11-08 03:05:46.299 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9904
+2022-11-08 03:05:46.299 | INFO     | __main__:<module>:85 - Epoch 530, Loss: 0.0281, Test: 0.6556
+2022-11-08 03:06:48.404 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6395
+2022-11-08 03:06:48.404 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9907
+2022-11-08 03:06:48.404 | INFO     | __main__:<module>:85 - Epoch 531, Loss: 0.0293, Test: 0.6395
+2022-11-08 03:07:50.558 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6522
+2022-11-08 03:07:50.559 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9898
+2022-11-08 03:07:50.559 | INFO     | __main__:<module>:85 - Epoch 532, Loss: 0.0280, Test: 0.6522
+2022-11-08 03:08:52.722 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6659
+2022-11-08 03:08:52.722 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-08 03:08:52.723 | INFO     | __main__:<module>:85 - Epoch 533, Loss: 0.0241, Test: 0.6659
+2022-11-08 03:09:54.925 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6651
+2022-11-08 03:09:54.926 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9908
+2022-11-08 03:09:54.926 | INFO     | __main__:<module>:85 - Epoch 534, Loss: 0.0271, Test: 0.6651
+2022-11-08 03:10:57.142 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6632
+2022-11-08 03:10:57.143 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9912
+2022-11-08 03:10:57.143 | INFO     | __main__:<module>:85 - Epoch 535, Loss: 0.0271, Test: 0.6632
+2022-11-08 03:11:59.338 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6540
+2022-11-08 03:11:59.338 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9932
+2022-11-08 03:11:59.339 | INFO     | __main__:<module>:85 - Epoch 536, Loss: 0.0207, Test: 0.6540
+2022-11-08 03:13:01.549 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6559
+2022-11-08 03:13:01.549 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9918
+2022-11-08 03:13:01.549 | INFO     | __main__:<module>:85 - Epoch 537, Loss: 0.0213, Test: 0.6559
+2022-11-08 03:14:03.737 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6590
+2022-11-08 03:14:03.737 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9931
+2022-11-08 03:14:03.738 | INFO     | __main__:<module>:85 - Epoch 538, Loss: 0.0219, Test: 0.6590
+2022-11-08 03:15:05.955 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6255
+2022-11-08 03:15:05.955 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-08 03:15:05.955 | INFO     | __main__:<module>:85 - Epoch 539, Loss: 0.0256, Test: 0.6255
+2022-11-08 03:16:08.229 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6540
+2022-11-08 03:16:08.230 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9894
+2022-11-08 03:16:08.230 | INFO     | __main__:<module>:85 - Epoch 540, Loss: 0.0303, Test: 0.6540
+2022-11-08 03:17:10.467 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6614
+2022-11-08 03:17:10.467 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9929
+2022-11-08 03:17:10.467 | INFO     | __main__:<module>:85 - Epoch 541, Loss: 0.0216, Test: 0.6614
+2022-11-08 03:18:12.638 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6603
+2022-11-08 03:18:12.638 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9928
+2022-11-08 03:18:12.638 | INFO     | __main__:<module>:85 - Epoch 542, Loss: 0.0197, Test: 0.6603
+2022-11-08 03:19:14.876 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6519
+2022-11-08 03:19:14.876 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9884
+2022-11-08 03:19:14.876 | INFO     | __main__:<module>:85 - Epoch 543, Loss: 0.0327, Test: 0.6519
+2022-11-08 03:20:17.058 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6574
+2022-11-08 03:20:17.058 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9927
+2022-11-08 03:20:17.059 | INFO     | __main__:<module>:85 - Epoch 544, Loss: 0.0223, Test: 0.6574
+2022-11-08 03:21:19.291 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6680
+2022-11-08 03:21:19.292 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9937
+2022-11-08 03:21:19.292 | INFO     | __main__:<module>:85 - Epoch 545, Loss: 0.0187, Test: 0.6680
+2022-11-08 03:22:21.472 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6553
+2022-11-08 03:22:21.473 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9916
+2022-11-08 03:22:21.473 | INFO     | __main__:<module>:85 - Epoch 546, Loss: 0.0254, Test: 0.6553
+2022-11-08 03:23:23.696 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6403
+2022-11-08 03:23:23.697 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9935
+2022-11-08 03:23:23.697 | INFO     | __main__:<module>:85 - Epoch 547, Loss: 0.0193, Test: 0.6403
+2022-11-08 03:24:25.942 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6556
+2022-11-08 03:24:25.942 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9909
+2022-11-08 03:24:25.942 | INFO     | __main__:<module>:85 - Epoch 548, Loss: 0.0242, Test: 0.6556
+2022-11-08 03:25:28.082 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6661
+2022-11-08 03:25:28.082 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9928
+2022-11-08 03:25:28.082 | INFO     | __main__:<module>:85 - Epoch 549, Loss: 0.0212, Test: 0.6661
+2022-11-08 03:26:30.256 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6461
+2022-11-08 03:26:30.256 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9889
+2022-11-08 03:26:30.257 | INFO     | __main__:<module>:85 - Epoch 550, Loss: 0.0302, Test: 0.6461
+2022-11-08 03:27:32.393 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6564
+2022-11-08 03:27:32.393 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9919
+2022-11-08 03:27:32.393 | INFO     | __main__:<module>:85 - Epoch 551, Loss: 0.0221, Test: 0.6564
+2022-11-08 03:28:34.595 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6445
+2022-11-08 03:28:34.595 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9944
+2022-11-08 03:28:34.595 | INFO     | __main__:<module>:85 - Epoch 552, Loss: 0.0181, Test: 0.6445
+2022-11-08 03:29:36.719 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6495
+2022-11-08 03:29:36.719 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9915
+2022-11-08 03:29:36.720 | INFO     | __main__:<module>:85 - Epoch 553, Loss: 0.0245, Test: 0.6495
+2022-11-08 03:30:38.947 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6461
+2022-11-08 03:30:38.947 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9916
+2022-11-08 03:30:38.947 | INFO     | __main__:<module>:85 - Epoch 554, Loss: 0.0223, Test: 0.6461
+2022-11-08 03:31:41.139 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6482
+2022-11-08 03:31:41.140 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9911
+2022-11-08 03:31:41.140 | INFO     | __main__:<module>:85 - Epoch 555, Loss: 0.0248, Test: 0.6482
+2022-11-08 03:32:43.363 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6611
+2022-11-08 03:32:43.363 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-08 03:32:43.364 | INFO     | __main__:<module>:85 - Epoch 556, Loss: 0.0233, Test: 0.6611
+2022-11-08 03:33:45.628 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6617
+2022-11-08 03:33:45.628 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9915
+2022-11-08 03:33:45.628 | INFO     | __main__:<module>:85 - Epoch 557, Loss: 0.0271, Test: 0.6617
+2022-11-08 03:34:47.897 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6595
+2022-11-08 03:34:47.897 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9930
+2022-11-08 03:34:47.898 | INFO     | __main__:<module>:85 - Epoch 558, Loss: 0.0207, Test: 0.6595
+2022-11-08 03:35:50.186 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6472
+2022-11-08 03:35:50.187 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9914
+2022-11-08 03:35:50.187 | INFO     | __main__:<module>:85 - Epoch 559, Loss: 0.0249, Test: 0.6472
+2022-11-08 03:36:52.488 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6601
+2022-11-08 03:36:52.489 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9943
+2022-11-08 03:36:52.489 | INFO     | __main__:<module>:85 - Epoch 560, Loss: 0.0150, Test: 0.6601
+2022-11-08 03:37:54.745 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6606
+2022-11-08 03:37:54.745 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9936
+2022-11-08 03:37:54.746 | INFO     | __main__:<module>:85 - Epoch 561, Loss: 0.0202, Test: 0.6606
+2022-11-08 03:38:56.945 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6588
+2022-11-08 03:38:56.945 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9904
+2022-11-08 03:38:56.946 | INFO     | __main__:<module>:85 - Epoch 562, Loss: 0.0266, Test: 0.6588
+2022-11-08 03:39:59.178 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6664
+2022-11-08 03:39:59.179 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9930
+2022-11-08 03:39:59.179 | INFO     | __main__:<module>:85 - Epoch 563, Loss: 0.0194, Test: 0.6664
+2022-11-08 03:41:01.396 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6638
+2022-11-08 03:41:01.397 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9901
+2022-11-08 03:41:01.397 | INFO     | __main__:<module>:85 - Epoch 564, Loss: 0.0289, Test: 0.6638
+2022-11-08 03:42:03.568 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6532
+2022-11-08 03:42:03.569 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9937
+2022-11-08 03:42:03.569 | INFO     | __main__:<module>:85 - Epoch 565, Loss: 0.0188, Test: 0.6532
+2022-11-08 03:43:05.767 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6458
+2022-11-08 03:43:05.768 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9928
+2022-11-08 03:43:05.768 | INFO     | __main__:<module>:85 - Epoch 566, Loss: 0.0245, Test: 0.6458
+2022-11-08 03:44:07.978 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6450
+2022-11-08 03:44:07.978 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9941
+2022-11-08 03:44:07.979 | INFO     | __main__:<module>:85 - Epoch 567, Loss: 0.0165, Test: 0.6450
+2022-11-08 03:45:10.188 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6532
+2022-11-08 03:45:10.188 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9903
+2022-11-08 03:45:10.189 | INFO     | __main__:<module>:85 - Epoch 568, Loss: 0.0296, Test: 0.6532
+2022-11-08 03:46:12.431 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6300
+2022-11-08 03:46:12.432 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-08 03:46:12.432 | INFO     | __main__:<module>:85 - Epoch 569, Loss: 0.0216, Test: 0.6300
+2022-11-08 03:47:14.654 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6569
+2022-11-08 03:47:14.654 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-08 03:47:14.655 | INFO     | __main__:<module>:85 - Epoch 570, Loss: 0.0232, Test: 0.6569
+2022-11-08 03:48:16.823 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6506
+2022-11-08 03:48:16.823 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9910
+2022-11-08 03:48:16.824 | INFO     | __main__:<module>:85 - Epoch 571, Loss: 0.0253, Test: 0.6506
+2022-11-08 03:49:19.017 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6450
+2022-11-08 03:49:19.017 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9902
+2022-11-08 03:49:19.018 | INFO     | __main__:<module>:85 - Epoch 572, Loss: 0.0454, Test: 0.6450
+2022-11-08 03:50:21.247 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6624
+2022-11-08 03:50:21.248 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9933
+2022-11-08 03:50:21.248 | INFO     | __main__:<module>:85 - Epoch 573, Loss: 0.0200, Test: 0.6624
+2022-11-08 03:51:23.403 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6682
+2022-11-08 03:51:23.403 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9951
+2022-11-08 03:51:23.404 | INFO     | __main__:<module>:85 - Epoch 574, Loss: 0.0167, Test: 0.6682
+2022-11-08 03:52:25.603 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6537
+2022-11-08 03:52:25.603 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9936
+2022-11-08 03:52:25.603 | INFO     | __main__:<module>:85 - Epoch 575, Loss: 0.0190, Test: 0.6537
+2022-11-08 03:53:27.798 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6400
+2022-11-08 03:53:27.798 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9915
+2022-11-08 03:53:27.798 | INFO     | __main__:<module>:85 - Epoch 576, Loss: 0.0245, Test: 0.6400
+2022-11-08 03:54:29.999 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6429
+2022-11-08 03:54:29.999 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9927
+2022-11-08 03:54:29.999 | INFO     | __main__:<module>:85 - Epoch 577, Loss: 0.0213, Test: 0.6429
+2022-11-08 03:55:32.222 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6603
+2022-11-08 03:55:32.223 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9929
+2022-11-08 03:55:32.223 | INFO     | __main__:<module>:85 - Epoch 578, Loss: 0.0219, Test: 0.6603
+2022-11-08 03:56:34.446 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6582
+2022-11-08 03:56:34.447 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9926
+2022-11-08 03:56:34.447 | INFO     | __main__:<module>:85 - Epoch 579, Loss: 0.0203, Test: 0.6582
+2022-11-08 03:57:36.674 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6688
+2022-11-08 03:57:36.674 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9937
+2022-11-08 03:57:36.674 | INFO     | __main__:<module>:85 - Epoch 580, Loss: 0.0180, Test: 0.6688
+2022-11-08 03:58:38.909 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6656
+2022-11-08 03:58:38.909 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9916
+2022-11-08 03:58:38.910 | INFO     | __main__:<module>:85 - Epoch 581, Loss: 0.0230, Test: 0.6656
+2022-11-08 03:59:41.102 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6551
+2022-11-08 03:59:41.103 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9931
+2022-11-08 03:59:41.103 | INFO     | __main__:<module>:85 - Epoch 582, Loss: 0.0212, Test: 0.6551
+2022-11-08 04:00:43.261 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6501
+2022-11-08 04:00:43.262 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9938
+2022-11-08 04:00:43.262 | INFO     | __main__:<module>:85 - Epoch 583, Loss: 0.0176, Test: 0.6501
+2022-11-08 04:01:45.448 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6588
+2022-11-08 04:01:45.448 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9918
+2022-11-08 04:01:45.448 | INFO     | __main__:<module>:85 - Epoch 584, Loss: 0.0243, Test: 0.6588
+2022-11-08 04:02:47.634 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6577
+2022-11-08 04:02:47.634 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9939
+2022-11-08 04:02:47.634 | INFO     | __main__:<module>:85 - Epoch 585, Loss: 0.0194, Test: 0.6577
+2022-11-08 04:03:49.840 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6443
+2022-11-08 04:03:49.841 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9904
+2022-11-08 04:03:49.841 | INFO     | __main__:<module>:85 - Epoch 586, Loss: 0.0287, Test: 0.6443
+2022-11-08 04:04:52.073 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6595
+2022-11-08 04:04:52.073 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9920
+2022-11-08 04:04:52.073 | INFO     | __main__:<module>:85 - Epoch 587, Loss: 0.0222, Test: 0.6595
+2022-11-08 04:05:54.207 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6601
+2022-11-08 04:05:54.207 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9927
+2022-11-08 04:05:54.208 | INFO     | __main__:<module>:85 - Epoch 588, Loss: 0.0223, Test: 0.6601
+2022-11-08 04:06:56.334 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6617
+2022-11-08 04:06:56.334 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9910
+2022-11-08 04:06:56.334 | INFO     | __main__:<module>:85 - Epoch 589, Loss: 0.0256, Test: 0.6617
+2022-11-08 04:07:58.466 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6564
+2022-11-08 04:07:58.466 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9925
+2022-11-08 04:07:58.466 | INFO     | __main__:<module>:85 - Epoch 590, Loss: 0.0221, Test: 0.6564
+2022-11-08 04:09:00.580 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6532
+2022-11-08 04:09:00.581 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9935
+2022-11-08 04:09:00.581 | INFO     | __main__:<module>:85 - Epoch 591, Loss: 0.0179, Test: 0.6532
+2022-11-08 04:10:02.732 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6653
+2022-11-08 04:10:02.732 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9940
+2022-11-08 04:10:02.732 | INFO     | __main__:<module>:85 - Epoch 592, Loss: 0.0168, Test: 0.6653
+2022-11-08 04:11:04.948 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6424
+2022-11-08 04:11:04.948 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9935
+2022-11-08 04:11:04.949 | INFO     | __main__:<module>:85 - Epoch 593, Loss: 0.0190, Test: 0.6424
+2022-11-08 04:12:07.135 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6498
+2022-11-08 04:12:07.135 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9935
+2022-11-08 04:12:07.135 | INFO     | __main__:<module>:85 - Epoch 594, Loss: 0.0199, Test: 0.6498
+2022-11-08 04:13:09.304 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6738
+2022-11-08 04:13:09.305 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9925
+2022-11-08 04:13:09.305 | INFO     | __main__:<module>:85 - Epoch 595, Loss: 0.0239, Test: 0.6738
+2022-11-08 04:14:11.516 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6590
+2022-11-08 04:14:11.516 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9901
+2022-11-08 04:14:11.516 | INFO     | __main__:<module>:85 - Epoch 596, Loss: 0.0291, Test: 0.6590
+2022-11-08 04:15:13.682 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6664
+2022-11-08 04:15:13.682 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9913
+2022-11-08 04:15:13.682 | INFO     | __main__:<module>:85 - Epoch 597, Loss: 0.0274, Test: 0.6664
+2022-11-08 04:16:15.887 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6485
+2022-11-08 04:16:15.888 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9949
+2022-11-08 04:16:15.888 | INFO     | __main__:<module>:85 - Epoch 598, Loss: 0.0149, Test: 0.6485
+2022-11-08 04:17:18.092 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6582
+2022-11-08 04:17:18.092 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9942
+2022-11-08 04:17:18.092 | INFO     | __main__:<module>:85 - Epoch 599, Loss: 0.0191, Test: 0.6582
+2022-11-08 04:18:20.286 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6506
+2022-11-08 04:18:20.286 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9930
+2022-11-08 04:18:20.286 | INFO     | __main__:<module>:85 - Epoch 600, Loss: 0.0220, Test: 0.6506
+2022-11-08 04:19:22.494 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6527
+2022-11-08 04:19:22.494 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9922
+2022-11-08 04:19:22.494 | INFO     | __main__:<module>:85 - Epoch 601, Loss: 0.0231, Test: 0.6527
+2022-11-08 04:20:24.711 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6559
+2022-11-08 04:20:24.711 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9925
+2022-11-08 04:20:24.711 | INFO     | __main__:<module>:85 - Epoch 602, Loss: 0.0249, Test: 0.6559
+2022-11-08 04:21:26.886 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6113
+2022-11-08 04:21:26.887 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9937
+2022-11-08 04:21:26.887 | INFO     | __main__:<module>:85 - Epoch 603, Loss: 0.0185, Test: 0.6113
+2022-11-08 04:22:29.123 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6519
+2022-11-08 04:22:29.123 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9893
+2022-11-08 04:22:29.123 | INFO     | __main__:<module>:85 - Epoch 604, Loss: 0.0320, Test: 0.6519
+2022-11-08 04:23:31.290 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6564
+2022-11-08 04:23:31.291 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9941
+2022-11-08 04:23:31.291 | INFO     | __main__:<module>:85 - Epoch 605, Loss: 0.0191, Test: 0.6564
+2022-11-08 04:24:33.477 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6619
+2022-11-08 04:24:33.478 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9946
+2022-11-08 04:24:33.478 | INFO     | __main__:<module>:85 - Epoch 606, Loss: 0.0146, Test: 0.6619
+2022-11-08 04:25:35.713 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6472
+2022-11-08 04:25:35.713 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9923
+2022-11-08 04:25:35.713 | INFO     | __main__:<module>:85 - Epoch 607, Loss: 0.0225, Test: 0.6472
+2022-11-08 04:26:37.879 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6627
+2022-11-08 04:26:37.879 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9896
+2022-11-08 04:26:37.879 | INFO     | __main__:<module>:85 - Epoch 608, Loss: 0.0296, Test: 0.6627
+2022-11-08 04:27:40.136 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6609
+2022-11-08 04:27:40.136 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9939
+2022-11-08 04:27:40.136 | INFO     | __main__:<module>:85 - Epoch 609, Loss: 0.0184, Test: 0.6609
+2022-11-08 04:28:42.403 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6664
+2022-11-08 04:28:42.403 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9900
+2022-11-08 04:28:42.404 | INFO     | __main__:<module>:85 - Epoch 610, Loss: 0.0308, Test: 0.6664
+2022-11-08 04:29:44.649 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6487
+2022-11-08 04:29:44.650 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9955
+2022-11-08 04:29:44.650 | INFO     | __main__:<module>:85 - Epoch 611, Loss: 0.0141, Test: 0.6487
+2022-11-08 04:30:46.965 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6411
+2022-11-08 04:30:46.965 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9896
+2022-11-08 04:30:46.965 | INFO     | __main__:<module>:85 - Epoch 612, Loss: 0.0422, Test: 0.6411
+2022-11-08 04:31:49.240 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6651
+2022-11-08 04:31:49.240 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9935
+2022-11-08 04:31:49.240 | INFO     | __main__:<module>:85 - Epoch 613, Loss: 0.0189, Test: 0.6651
+2022-11-08 04:32:51.548 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6501
+2022-11-08 04:32:51.548 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9933
+2022-11-08 04:32:51.549 | INFO     | __main__:<module>:85 - Epoch 614, Loss: 0.0197, Test: 0.6501
+2022-11-08 04:33:53.806 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6601
+2022-11-08 04:33:53.806 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9949
+2022-11-08 04:33:53.806 | INFO     | __main__:<module>:85 - Epoch 615, Loss: 0.0152, Test: 0.6601
+2022-11-08 04:34:56.072 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6640
+2022-11-08 04:34:56.072 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9947
+2022-11-08 04:34:56.072 | INFO     | __main__:<module>:85 - Epoch 616, Loss: 0.0173, Test: 0.6640
+2022-11-08 04:35:58.313 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6503
+2022-11-08 04:35:58.314 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9964
+2022-11-08 04:35:58.314 | INFO     | __main__:<module>:85 - Epoch 617, Loss: 0.0130, Test: 0.6503
+2022-11-08 04:37:00.555 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6566
+2022-11-08 04:37:00.555 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9937
+2022-11-08 04:37:00.555 | INFO     | __main__:<module>:85 - Epoch 618, Loss: 0.0189, Test: 0.6566
+2022-11-08 04:38:02.799 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6545
+2022-11-08 04:38:02.799 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9960
+2022-11-08 04:38:02.799 | INFO     | __main__:<module>:85 - Epoch 619, Loss: 0.0124, Test: 0.6545
+2022-11-08 04:39:05.078 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6667
+2022-11-08 04:39:05.078 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9943
+2022-11-08 04:39:05.078 | INFO     | __main__:<module>:85 - Epoch 620, Loss: 0.0167, Test: 0.6667
+2022-11-08 04:40:07.321 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6582
+2022-11-08 04:40:07.322 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9941
+2022-11-08 04:40:07.322 | INFO     | __main__:<module>:85 - Epoch 621, Loss: 0.0180, Test: 0.6582
+2022-11-08 04:41:09.531 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6527
+2022-11-08 04:41:09.531 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-08 04:41:09.531 | INFO     | __main__:<module>:85 - Epoch 622, Loss: 0.0300, Test: 0.6527
+2022-11-08 04:42:11.735 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6532
+2022-11-08 04:42:11.735 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9935
+2022-11-08 04:42:11.735 | INFO     | __main__:<module>:85 - Epoch 623, Loss: 0.0204, Test: 0.6532
+2022-11-08 04:43:14.020 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6551
+2022-11-08 04:43:14.020 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-08 04:43:14.021 | INFO     | __main__:<module>:85 - Epoch 624, Loss: 0.0232, Test: 0.6551
+2022-11-08 04:44:16.271 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6493
+2022-11-08 04:44:16.272 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9924
+2022-11-08 04:44:16.272 | INFO     | __main__:<module>:85 - Epoch 625, Loss: 0.0219, Test: 0.6493
+2022-11-08 04:45:18.520 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6532
+2022-11-08 04:45:18.520 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-08 04:45:18.520 | INFO     | __main__:<module>:85 - Epoch 626, Loss: 0.0268, Test: 0.6532
+2022-11-08 04:46:20.741 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6577
+2022-11-08 04:46:20.741 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9947
+2022-11-08 04:46:20.741 | INFO     | __main__:<module>:85 - Epoch 627, Loss: 0.0180, Test: 0.6577
+2022-11-08 04:47:22.895 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6458
+2022-11-08 04:47:22.895 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9918
+2022-11-08 04:47:22.896 | INFO     | __main__:<module>:85 - Epoch 628, Loss: 0.0239, Test: 0.6458
+2022-11-08 04:48:25.087 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6590
+2022-11-08 04:48:25.088 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9934
+2022-11-08 04:48:25.088 | INFO     | __main__:<module>:85 - Epoch 629, Loss: 0.0193, Test: 0.6590
+2022-11-08 04:49:27.238 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6390
+2022-11-08 04:49:27.238 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9910
+2022-11-08 04:49:27.238 | INFO     | __main__:<module>:85 - Epoch 630, Loss: 0.0259, Test: 0.6390
+2022-11-08 04:50:29.434 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6540
+2022-11-08 04:50:29.434 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9952
+2022-11-08 04:50:29.435 | INFO     | __main__:<module>:85 - Epoch 631, Loss: 0.0194, Test: 0.6540
+2022-11-08 04:51:31.645 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6648
+2022-11-08 04:51:31.645 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9953
+2022-11-08 04:51:31.645 | INFO     | __main__:<module>:85 - Epoch 632, Loss: 0.0148, Test: 0.6648
+2022-11-08 04:52:33.826 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6353
+2022-11-08 04:52:33.826 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9909
+2022-11-08 04:52:33.827 | INFO     | __main__:<module>:85 - Epoch 633, Loss: 0.0271, Test: 0.6353
+2022-11-08 04:53:36.004 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6548
+2022-11-08 04:53:36.005 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9932
+2022-11-08 04:53:36.005 | INFO     | __main__:<module>:85 - Epoch 634, Loss: 0.0210, Test: 0.6548
+2022-11-08 04:54:38.192 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6624
+2022-11-08 04:54:38.192 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9940
+2022-11-08 04:54:38.193 | INFO     | __main__:<module>:85 - Epoch 635, Loss: 0.0183, Test: 0.6624
+2022-11-08 04:55:40.380 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6593
+2022-11-08 04:55:40.380 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9912
+2022-11-08 04:55:40.380 | INFO     | __main__:<module>:85 - Epoch 636, Loss: 0.0292, Test: 0.6593
+2022-11-08 04:56:42.668 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6458
+2022-11-08 04:56:42.668 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9939
+2022-11-08 04:56:42.668 | INFO     | __main__:<module>:85 - Epoch 637, Loss: 0.0205, Test: 0.6458
+2022-11-08 04:57:44.903 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6495
+2022-11-08 04:57:44.904 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9916
+2022-11-08 04:57:44.904 | INFO     | __main__:<module>:85 - Epoch 638, Loss: 0.0273, Test: 0.6495
+2022-11-08 04:58:47.103 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6580
+2022-11-08 04:58:47.104 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9939
+2022-11-08 04:58:47.104 | INFO     | __main__:<module>:85 - Epoch 639, Loss: 0.0179, Test: 0.6580
+2022-11-08 04:59:49.262 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6485
+2022-11-08 04:59:49.262 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9910
+2022-11-08 04:59:49.263 | INFO     | __main__:<module>:85 - Epoch 640, Loss: 0.0288, Test: 0.6485
+2022-11-08 05:00:51.464 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6590
+2022-11-08 05:00:51.464 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9929
+2022-11-08 05:00:51.465 | INFO     | __main__:<module>:85 - Epoch 641, Loss: 0.0196, Test: 0.6590
+2022-11-08 05:01:53.643 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6617
+2022-11-08 05:01:53.644 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9931
+2022-11-08 05:01:53.644 | INFO     | __main__:<module>:85 - Epoch 642, Loss: 0.0212, Test: 0.6617
+2022-11-08 05:02:55.758 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6630
+2022-11-08 05:02:55.758 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9930
+2022-11-08 05:02:55.758 | INFO     | __main__:<module>:85 - Epoch 643, Loss: 0.0202, Test: 0.6630
+2022-11-08 05:03:57.954 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6704
+2022-11-08 05:03:57.955 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9917
+2022-11-08 05:03:57.955 | INFO     | __main__:<module>:85 - Epoch 644, Loss: 0.0229, Test: 0.6704
+2022-11-08 05:05:00.148 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6635
+2022-11-08 05:05:00.149 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9925
+2022-11-08 05:05:00.149 | INFO     | __main__:<module>:85 - Epoch 645, Loss: 0.0206, Test: 0.6635
+2022-11-08 05:06:02.349 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6421
+2022-11-08 05:06:02.350 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9933
+2022-11-08 05:06:02.350 | INFO     | __main__:<module>:85 - Epoch 646, Loss: 0.0220, Test: 0.6421
+2022-11-08 05:07:04.541 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6595
+2022-11-08 05:07:04.541 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9928
+2022-11-08 05:07:04.541 | INFO     | __main__:<module>:85 - Epoch 647, Loss: 0.0220, Test: 0.6595
+2022-11-08 05:08:06.750 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6435
+2022-11-08 05:08:06.750 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9931
+2022-11-08 05:08:06.750 | INFO     | __main__:<module>:85 - Epoch 648, Loss: 0.0207, Test: 0.6435
+2022-11-08 05:09:08.959 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6408
+2022-11-08 05:09:08.960 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-08 05:09:08.960 | INFO     | __main__:<module>:85 - Epoch 649, Loss: 0.0276, Test: 0.6408
+2022-11-08 05:10:11.169 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6653
+2022-11-08 05:10:11.170 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9939
+2022-11-08 05:10:11.170 | INFO     | __main__:<module>:85 - Epoch 650, Loss: 0.0184, Test: 0.6653
+2022-11-08 05:11:13.331 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6704
+2022-11-08 05:11:13.331 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9943
+2022-11-08 05:11:13.332 | INFO     | __main__:<module>:85 - Epoch 651, Loss: 0.0169, Test: 0.6704
+2022-11-08 05:12:15.553 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.5999
+2022-11-08 05:12:15.553 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9915
+2022-11-08 05:12:15.554 | INFO     | __main__:<module>:85 - Epoch 652, Loss: 0.0249, Test: 0.5999
+2022-11-08 05:13:17.753 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6696
+2022-11-08 05:13:17.754 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9925
+2022-11-08 05:13:17.754 | INFO     | __main__:<module>:85 - Epoch 653, Loss: 0.0201, Test: 0.6696
+2022-11-08 05:14:19.963 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6548
+2022-11-08 05:14:19.964 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9938
+2022-11-08 05:14:19.964 | INFO     | __main__:<module>:85 - Epoch 654, Loss: 0.0189, Test: 0.6548
+2022-11-08 05:15:22.229 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6553
+2022-11-08 05:15:22.229 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9914
+2022-11-08 05:15:22.229 | INFO     | __main__:<module>:85 - Epoch 655, Loss: 0.0258, Test: 0.6553
+2022-11-08 05:16:24.371 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6717
+2022-11-08 05:16:24.372 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-08 05:16:24.372 | INFO     | __main__:<module>:85 - Epoch 656, Loss: 0.0222, Test: 0.6717
+2022-11-08 05:17:26.586 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6519
+2022-11-08 05:17:26.587 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9928
+2022-11-08 05:17:26.587 | INFO     | __main__:<module>:85 - Epoch 657, Loss: 0.0220, Test: 0.6519
+2022-11-08 05:18:28.799 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6553
+2022-11-08 05:18:28.800 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9928
+2022-11-08 05:18:28.800 | INFO     | __main__:<module>:85 - Epoch 658, Loss: 0.0189, Test: 0.6553
+2022-11-08 05:19:30.984 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6506
+2022-11-08 05:19:30.984 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9937
+2022-11-08 05:19:30.985 | INFO     | __main__:<module>:85 - Epoch 659, Loss: 0.0184, Test: 0.6506
+2022-11-08 05:20:33.176 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6585
+2022-11-08 05:20:33.176 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9917
+2022-11-08 05:20:33.177 | INFO     | __main__:<module>:85 - Epoch 660, Loss: 0.0249, Test: 0.6585
+2022-11-08 05:21:35.421 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6482
+2022-11-08 05:21:35.421 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9925
+2022-11-08 05:21:35.422 | INFO     | __main__:<module>:85 - Epoch 661, Loss: 0.0213, Test: 0.6482
+2022-11-08 05:22:37.610 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6371
+2022-11-08 05:22:37.611 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9912
+2022-11-08 05:22:37.611 | INFO     | __main__:<module>:85 - Epoch 662, Loss: 0.0259, Test: 0.6371
+2022-11-08 05:23:39.842 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6564
+2022-11-08 05:23:39.842 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9941
+2022-11-08 05:23:39.843 | INFO     | __main__:<module>:85 - Epoch 663, Loss: 0.0194, Test: 0.6564
+2022-11-08 05:24:41.971 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6537
+2022-11-08 05:24:41.972 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9947
+2022-11-08 05:24:41.972 | INFO     | __main__:<module>:85 - Epoch 664, Loss: 0.0163, Test: 0.6537
+2022-11-08 05:25:44.088 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6258
+2022-11-08 05:25:44.088 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9906
+2022-11-08 05:25:44.088 | INFO     | __main__:<module>:85 - Epoch 665, Loss: 0.0251, Test: 0.6258
+2022-11-08 05:26:46.213 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6627
+2022-11-08 05:26:46.213 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9917
+2022-11-08 05:26:46.213 | INFO     | __main__:<module>:85 - Epoch 666, Loss: 0.0260, Test: 0.6627
+2022-11-08 05:27:48.357 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6564
+2022-11-08 05:27:48.357 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9914
+2022-11-08 05:27:48.358 | INFO     | __main__:<module>:85 - Epoch 667, Loss: 0.0261, Test: 0.6564
+2022-11-08 05:28:50.521 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6424
+2022-11-08 05:28:50.521 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9919
+2022-11-08 05:28:50.521 | INFO     | __main__:<module>:85 - Epoch 668, Loss: 0.0212, Test: 0.6424
+2022-11-08 05:29:52.716 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6559
+2022-11-08 05:29:52.716 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9926
+2022-11-08 05:29:52.716 | INFO     | __main__:<module>:85 - Epoch 669, Loss: 0.0221, Test: 0.6559
+2022-11-08 05:30:54.849 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6537
+2022-11-08 05:30:54.849 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9908
+2022-11-08 05:30:54.850 | INFO     | __main__:<module>:85 - Epoch 670, Loss: 0.0260, Test: 0.6537
+2022-11-08 05:31:57.078 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6530
+2022-11-08 05:31:57.078 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9943
+2022-11-08 05:31:57.079 | INFO     | __main__:<module>:85 - Epoch 671, Loss: 0.0163, Test: 0.6530
+2022-11-08 05:32:59.240 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6461
+2022-11-08 05:32:59.240 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9918
+2022-11-08 05:32:59.240 | INFO     | __main__:<module>:85 - Epoch 672, Loss: 0.0219, Test: 0.6461
+2022-11-08 05:34:01.899 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6561
+2022-11-08 05:34:01.900 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9934
+2022-11-08 05:34:01.901 | INFO     | __main__:<module>:85 - Epoch 673, Loss: 0.0201, Test: 0.6561
+2022-11-08 05:35:04.007 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6448
+2022-11-08 05:35:04.009 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9931
+2022-11-08 05:35:04.009 | INFO     | __main__:<module>:85 - Epoch 674, Loss: 0.0198, Test: 0.6448
+2022-11-08 05:36:06.190 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6448
+2022-11-08 05:36:06.191 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9929
+2022-11-08 05:36:06.191 | INFO     | __main__:<module>:85 - Epoch 675, Loss: 0.0230, Test: 0.6448
+2022-11-08 05:37:08.349 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6532
+2022-11-08 05:37:08.350 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9908
+2022-11-08 05:37:08.350 | INFO     | __main__:<module>:85 - Epoch 676, Loss: 0.0262, Test: 0.6532
+2022-11-08 05:38:10.480 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6530
+2022-11-08 05:38:10.481 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9933
+2022-11-08 05:38:10.482 | INFO     | __main__:<module>:85 - Epoch 677, Loss: 0.0175, Test: 0.6530
+2022-11-08 05:39:12.644 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6619
+2022-11-08 05:39:12.644 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9923
+2022-11-08 05:39:12.645 | INFO     | __main__:<module>:85 - Epoch 678, Loss: 0.0255, Test: 0.6619
+2022-11-08 05:40:14.825 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6559
+2022-11-08 05:40:14.827 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9928
+2022-11-08 05:40:14.828 | INFO     | __main__:<module>:85 - Epoch 679, Loss: 0.0198, Test: 0.6559
+2022-11-08 05:41:16.952 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6276
+2022-11-08 05:41:16.953 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9914
+2022-11-08 05:41:16.953 | INFO     | __main__:<module>:85 - Epoch 680, Loss: 0.0252, Test: 0.6276
+2022-11-08 05:42:19.107 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6609
+2022-11-08 05:42:19.108 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9936
+2022-11-08 05:42:19.109 | INFO     | __main__:<module>:85 - Epoch 681, Loss: 0.0193, Test: 0.6609
+2022-11-08 05:43:21.340 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6421
+2022-11-08 05:43:21.341 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9916
+2022-11-08 05:43:21.342 | INFO     | __main__:<module>:85 - Epoch 682, Loss: 0.0249, Test: 0.6421
+2022-11-08 05:44:23.563 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6276
+2022-11-08 05:44:23.564 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9947
+2022-11-08 05:44:23.565 | INFO     | __main__:<module>:85 - Epoch 683, Loss: 0.0169, Test: 0.6276
+2022-11-08 05:45:25.775 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6530
+2022-11-08 05:45:25.777 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9932
+2022-11-08 05:45:25.777 | INFO     | __main__:<module>:85 - Epoch 684, Loss: 0.0212, Test: 0.6530
+2022-11-08 05:46:27.899 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6261
+2022-11-08 05:46:27.900 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9944
+2022-11-08 05:46:27.900 | INFO     | __main__:<module>:85 - Epoch 685, Loss: 0.0191, Test: 0.6261
+2022-11-08 05:47:30.041 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6609
+2022-11-08 05:47:30.042 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9914
+2022-11-08 05:47:30.042 | INFO     | __main__:<module>:85 - Epoch 686, Loss: 0.0268, Test: 0.6609
+2022-11-08 05:48:32.215 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6477
+2022-11-08 05:48:32.216 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9918
+2022-11-08 10:28:18.714 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6540
+2022-11-08 10:28:18.715 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9972
+2022-11-08 10:28:18.715 | INFO     | __main__:<module>:85 - Epoch 957, Loss: 0.0095, Test: 0.6540
+2022-11-08 10:29:20.871 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6601
+2022-11-08 10:29:20.872 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9950
+2022-11-08 10:29:20.872 | INFO     | __main__:<module>:85 - Epoch 958, Loss: 0.0162, Test: 0.6601
+2022-11-08 10:30:23.080 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6561
+2022-11-08 10:30:23.081 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9949
+2022-11-08 10:30:23.081 | INFO     | __main__:<module>:85 - Epoch 959, Loss: 0.0172, Test: 0.6561
+2022-11-08 10:31:25.247 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6487
+2022-11-08 10:31:25.247 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9936
+2022-11-08 10:31:25.248 | INFO     | __main__:<module>:85 - Epoch 960, Loss: 0.0198, Test: 0.6487
+2022-11-08 10:32:27.461 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6453
+2022-11-08 10:32:27.462 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9945
+2022-11-08 10:32:27.462 | INFO     | __main__:<module>:85 - Epoch 961, Loss: 0.0168, Test: 0.6453
+2022-11-08 10:33:29.684 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6561
+2022-11-08 10:33:29.684 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9947
+2022-11-08 10:33:29.684 | INFO     | __main__:<module>:85 - Epoch 962, Loss: 0.0161, Test: 0.6561
+2022-11-08 10:34:31.856 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6458
+2022-11-08 10:34:31.856 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9955
+2022-11-08 10:34:31.857 | INFO     | __main__:<module>:85 - Epoch 963, Loss: 0.0129, Test: 0.6458
+2022-11-08 10:35:34.033 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6556
+2022-11-08 10:35:34.034 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9934
+2022-11-08 10:35:34.034 | INFO     | __main__:<module>:85 - Epoch 964, Loss: 0.0194, Test: 0.6556
+2022-11-08 10:36:36.268 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6601
+2022-11-08 10:36:36.268 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9939
+2022-11-08 10:36:36.268 | INFO     | __main__:<module>:85 - Epoch 965, Loss: 0.0192, Test: 0.6601
+2022-11-08 10:37:38.548 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6487
+2022-11-08 10:37:38.548 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9938
+2022-11-08 10:37:38.548 | INFO     | __main__:<module>:85 - Epoch 966, Loss: 0.0169, Test: 0.6487
+2022-11-08 10:38:40.827 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6646
+2022-11-08 10:38:40.827 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9941
+2022-11-08 10:38:40.828 | INFO     | __main__:<module>:85 - Epoch 967, Loss: 0.0167, Test: 0.6646

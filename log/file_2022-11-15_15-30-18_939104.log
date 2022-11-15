@@ -1,0 +1,24 @@
+2022-11-15 15:46:15.984 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6642
+2022-11-15 15:46:16.002 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.6169
+2022-11-15 15:46:16.002 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.66 for epoch: 1
+
+2022-11-15 15:46:16.427 | INFO     | __main__:<module>:85 - Epoch 001, Loss: 0.6442, Test: 0.6642
+2022-11-15 15:58:43.946 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6805
+2022-11-15 15:58:43.948 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.6711
+2022-11-15 15:58:43.949 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.68 for epoch: 2
+
+2022-11-15 15:58:43.973 | INFO     | __main__:<module>:85 - Epoch 002, Loss: 0.5943, Test: 0.6805
+2022-11-15 16:11:12.899 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.6903
+2022-11-15 16:11:12.900 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.6889
+2022-11-15 16:11:12.900 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.69 for epoch: 3
+
+2022-11-15 16:11:12.926 | INFO     | __main__:<module>:85 - Epoch 003, Loss: 0.5752, Test: 0.6903
