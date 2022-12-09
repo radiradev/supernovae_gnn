@@ -1,0 +1,32 @@
+2022-12-09 18:07:14.263 | INFO     | __main__:<module>:73 - 
+Current val acc:, 0.9181
+2022-12-09 18:07:14.263 | INFO     | __main__:<module>:74 - 
+Current train acc:, 0.9122
+2022-12-09 18:07:14.264 | INFO     | __main__:<module>:77 - 
+Saving best model with accurracy  0.92 for epoch: 1
+
+2022-12-09 18:07:14.272 | INFO     | __main__:<module>:84 - Epoch 001, Loss: 0.0070, val: 0.9181
+2022-12-09 18:09:11.981 | INFO     | __main__:<module>:73 - 
+Current val acc:, 0.9291
+2022-12-09 18:09:11.981 | INFO     | __main__:<module>:74 - 
+Current train acc:, 0.9241
+2022-12-09 18:09:11.982 | INFO     | __main__:<module>:77 - 
+Saving best model with accurracy  0.93 for epoch: 2
+
+2022-12-09 18:09:11.990 | INFO     | __main__:<module>:84 - Epoch 002, Loss: 0.0063, val: 0.9291
+2022-12-09 18:11:09.622 | INFO     | __main__:<module>:73 - 
+Current val acc:, 0.9317
+2022-12-09 18:11:09.622 | INFO     | __main__:<module>:74 - 
+Current train acc:, 0.9275
+2022-12-09 18:11:09.622 | INFO     | __main__:<module>:77 - 
+Saving best model with accurracy  0.93 for epoch: 3
+
+2022-12-09 18:11:09.631 | INFO     | __main__:<module>:84 - Epoch 003, Loss: 0.0061, val: 0.9317
+2022-12-09 18:13:08.001 | INFO     | __main__:<module>:73 - 
+Current val acc:, 0.9351
+2022-12-09 18:13:08.002 | INFO     | __main__:<module>:74 - 
+Current train acc:, 0.9277
+2022-12-09 18:13:08.002 | INFO     | __main__:<module>:77 - 
+Saving best model with accurracy  0.94 for epoch: 4
+
+2022-12-09 18:13:08.010 | INFO     | __main__:<module>:84 - Epoch 004, Loss: 0.0060, val: 0.9351

@@ -1,0 +1,44 @@
+2022-11-22 16:23:48.879 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.9651
+2022-11-22 16:23:48.879 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9430
+2022-11-22 16:23:48.879 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.97 for epoch: 1
+
+2022-11-22 16:23:49.002 | INFO     | __main__:<module>:85 - Epoch 001, Loss: 0.1487, Test: 0.9651
+2022-11-22 16:28:50.760 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.9631
+2022-11-22 16:28:50.760 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9710
+2022-11-22 16:28:50.760 | INFO     | __main__:<module>:85 - Epoch 002, Loss: 0.0798, Test: 0.9631
+2022-11-22 16:33:51.644 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.9705
+2022-11-22 16:33:51.644 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9767
+2022-11-22 16:33:51.645 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.97 for epoch: 3
+
+2022-11-22 16:33:51.662 | INFO     | __main__:<module>:85 - Epoch 003, Loss: 0.0659, Test: 0.9705
+2022-11-22 16:38:52.285 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.9667
+2022-11-22 16:38:52.285 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9794
+2022-11-22 16:38:52.286 | INFO     | __main__:<module>:85 - Epoch 004, Loss: 0.0590, Test: 0.9667
+2022-11-22 16:43:52.405 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.9798
+2022-11-22 16:43:52.406 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9811
+2022-11-22 16:43:52.406 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.98 for epoch: 5
+
+2022-11-22 16:43:52.423 | INFO     | __main__:<module>:85 - Epoch 005, Loss: 0.0547, Test: 0.9798
+2022-11-22 16:48:52.705 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.9740
+2022-11-22 16:48:52.705 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9823
+2022-11-22 16:48:52.705 | INFO     | __main__:<module>:85 - Epoch 006, Loss: 0.0518, Test: 0.9740
+2022-11-22 16:53:53.431 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.9548
+2022-11-22 16:53:53.431 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.9831
+2022-11-22 16:53:53.431 | INFO     | __main__:<module>:85 - Epoch 007, Loss: 0.0498, Test: 0.9548

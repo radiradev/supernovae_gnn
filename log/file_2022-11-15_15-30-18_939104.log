@@ -22,3 +22,50 @@ Current train acc:, 0.6889
 Saving best model with accurracy  0.69 for epoch: 3
 
 2022-11-15 16:11:12.926 | INFO     | __main__:<module>:85 - Epoch 003, Loss: 0.5752, Test: 0.6903
+2022-11-15 16:23:40.626 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.7073
+2022-11-15 16:23:40.627 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.6983
+2022-11-15 16:23:40.627 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.71 for epoch: 4
+
+2022-11-15 16:23:40.652 | INFO     | __main__:<module>:85 - Epoch 004, Loss: 0.5645, Test: 0.7073
+2022-11-15 16:36:08.415 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.7111
+2022-11-15 16:36:08.415 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7042
+2022-11-15 16:36:08.415 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.71 for epoch: 5
+
+2022-11-15 16:36:08.440 | INFO     | __main__:<module>:85 - Epoch 005, Loss: 0.5568, Test: 0.7111
+2022-11-15 16:48:36.273 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.7234
+2022-11-15 16:48:36.274 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7105
+2022-11-15 16:48:36.274 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.72 for epoch: 6
+
+2022-11-15 16:48:36.301 | INFO     | __main__:<module>:85 - Epoch 006, Loss: 0.5483, Test: 0.7234
+2022-11-15 17:01:05.217 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.7175
+2022-11-15 17:01:05.218 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7161
+2022-11-15 17:01:05.218 | INFO     | __main__:<module>:85 - Epoch 007, Loss: 0.5417, Test: 0.7175
+2022-11-15 17:13:33.972 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.7230
+2022-11-15 17:13:33.972 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7200
+2022-11-15 17:13:33.973 | INFO     | __main__:<module>:85 - Epoch 008, Loss: 0.5370, Test: 0.7230
+2022-11-15 17:26:02.502 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.7289
+2022-11-15 17:26:02.502 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7214
+2022-11-15 17:26:02.503 | INFO     | __main__:<module>:78 - 
+Saving best model with accurracy  0.73 for epoch: 9
+
+2022-11-15 17:26:02.528 | INFO     | __main__:<module>:85 - Epoch 009, Loss: 0.5333, Test: 0.7289
+2022-11-15 17:38:30.924 | INFO     | __main__:<module>:74 - 
+Current test acc:, 0.7256
+2022-11-15 17:38:30.924 | INFO     | __main__:<module>:75 - 
+Current train acc:, 0.7261
+2022-11-15 17:38:30.925 | INFO     | __main__:<module>:85 - Epoch 010, Loss: 0.5288, Test: 0.7256
